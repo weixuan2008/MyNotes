@@ -1,0 +1,62 @@
+https://docs.delta.io/latest/quick-start.html#prerequisite-set-up-java
+
+1. 启动方式1：
+spark-sql --packages io.delta:delta-core_2.12:2.2.0 --conf "spark.sql.extensions=io.delta.sql.DeltaSparkSessionExtension" --conf "spark.sql.catalog.spark_catalog=org.apache.spark.sql.delta.catalog.DeltaCatalog"
+
+2. 启动方式2：
+spark-shell --packages io.delta:delta-core_2.12:2.2.0 --conf "spark.sql.extensions=io.delta.sql.DeltaSparkSessionExtension" --conf "spark.sql.catalog.spark_catalog=org.apache.spark.sql.delta.catalog.DeltaCatalog"
+
+
+3. Create a table:
+val data = spark.range(0, 5)
+data.write.format("delta").save("c:/lake_demo/delta-table")
+
+hadoop fs -ls C:\lake_demo\delta-table
+
+
+4. Read data:
+val df = spark.read.format("delta").load("c:/lake_demo/delta-table")
+df.show()
+
+5. Update table data:
+val data = spark.range(5, 10)
+data.write.format("delta").mode("overwrite").save("c:/lake_demo/delta-table")
+df.show()
+
+
+6. Conditional update without overwrite:
+import io.delta.tables._
+import org.apache.spark.sql.functions._
+
+val deltaTable = DeltaTable.forPath("c:/lake_demo/delta-table")
+
+// Update every even value by adding 100 to it
+deltaTable.update(
+  condition = expr("id % 2 == 0"),
+  set = Map("id" -> expr("id + 100")))
+
+// Delete every even value
+deltaTable.delete(condition = expr("id % 2 == 0"))
+
+// Upsert (merge) new data
+val newData = spark.range(0, 20).toDF
+
+deltaTable.as("oldData")
+  .merge(
+    newData.as("newData"),
+    "oldData.id = newData.id")
+  .whenMatched
+  .update(Map("id" -> col("newData.id")))
+  .whenNotMatched
+  .insert(Map("id" -> col("newData.id")))
+  .execute()
+
+deltaTable.toDF.show()
+
+7. Read older versions of data using time travel
+val df = spark.read.format("delta").option("versionAsOf", 0).load("c:/lake_demo/delta-table")
+df.show()
+
+8. view log
+
+hadoop fs -ls C:\lake_demo\delta-table\_delta_log
