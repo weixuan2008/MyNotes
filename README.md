@@ -14,7 +14,12 @@ https://satyenkumar.medium.com/demystifying-the-cloud-computing-an-overview-of-t
 
 https://azurecharts.com/overview
 
-
+JNI multiple thread
+https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaNativeInterface.html
+https://0110.be/posts/Calling_JNI_code_from_multiple_Java_threads%3A__sharing_state
+https://github.com/JorenSix/JGaborator
+https://stackoverflow.com/questions/43682803/c-multithread-java-jni-method-call
+https://www.appsloveworld.com/cplus/100/216/c-multithread-java-jni-method-call
 
 
 
