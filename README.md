@@ -22,5 +22,11 @@ https://github.com/JorenSix/JGaborator
 https://stackoverflow.com/questions/43682803/c-multithread-java-jni-method-call
 https://www.appsloveworld.com/cplus/100/216/c-multithread-java-jni-method-call
 
+克隆指定tag的代码
+
+git clone --branch release-1.23.3 https://github.com/nginx/nginx.git
 
 
+vscode调试nginx
+
+https://zhuanlan.zhihu.com/p/47236996
