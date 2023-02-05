@@ -30,3 +30,11 @@ git clone --branch release-1.23.3 https://github.com/nginx/nginx.git
 vscode调试nginx
 
 https://zhuanlan.zhihu.com/p/47236996
+
+从Lakehouse看Databricks对下一代数据湖架构的理解
+https://zhuanlan.zhihu.com/p/462094560
+https://zhuanlan.zhihu.com/p/378504852
+https://developer.aliyun.com/article/872948
+
+使用 Azure Databricks 编排 MLOps
+https://learn.microsoft.com/zh-cn/azure/architecture/reference-architectures/ai/orchestrate-mlops-azure-databricks
