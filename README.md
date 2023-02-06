@@ -38,3 +38,8 @@ https://developer.aliyun.com/article/872948
 
 使用 Azure Databricks 编排 MLOps
 https://learn.microsoft.com/zh-cn/azure/architecture/reference-architectures/ai/orchestrate-mlops-azure-databricks
+
+尚硅谷YYDS (课件资料)
+https://www.cnblogs.com/30go/p/16376826.html
+
+
