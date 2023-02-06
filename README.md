@@ -54,5 +54,6 @@ https://markdown.com.cn/basic-syntax/lists.html <br>
 - **landscape.cncf** <br>
 https://landscape.cncf.io/ <br>
 
-
+- **databrics** <br>
+https://www.databricks.com/discover/demos/databricks-platform-demo#trial-form 
 
