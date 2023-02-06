@@ -1,17 +1,20 @@
+- XMRTH- <br>
 https://xmrth.vip/user
 
-https://blog.csdn.net/qingyang0320/article/details/125487072
-
+- UMDH memory leak - <br> 
+https://blog.csdn.net/qingyang0320/article/details/125487072 
 https://www.jianshu.com/p/01b18e174bb0
 
+- IaaS, PaaS, SaaS区别 - 
 https://dachou.github.io/2018/09/28/cloud-service-models.html
 
+- 检查Products available by region - <br>
 https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/
 
-https://techcommunity.microsoft.com/t5/educator-developer-blog/getting-started-with-windows-azure-series-1-overview/ba-p/378385
+https://techcommunity.microsoft.com/t5/educator-developer-blog/getting-started-with-windows-azure-series-1-overview/ba-p/378385 
+https://satyenkumar.medium.com/demystifying-the-cloud-computing-an-overview-of-the-microsoft-azure-6a5c1fb1799d 
 
-https://satyenkumar.medium.com/demystifying-the-cloud-computing-an-overview-of-the-microsoft-azure-6a5c1fb1799d
-
+- Azure Services Overview - <br>
 https://azurecharts.com/overview
 
 - JNI multiple thread <br>
