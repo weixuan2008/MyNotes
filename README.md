@@ -21,30 +21,30 @@ https://github.com/JorenSix/JGaborator
 https://stackoverflow.com/questions/43682803/c-multithread-java-jni-method-call 
 https://www.appsloveworld.com/cplus/100/216/c-multithread-java-jni-method-call 
 
-- 克隆指定tag的代码 
+- 克隆指定tag的代码 <br>
 git clone --branch release-1.23.3 https://github.com/nginx/nginx.git
 
 
-- vscode调试nginx 
+- vscode调试nginx <br>
 https://zhuanlan.zhihu.com/p/47236996
 
-- 从Lakehouse看Databricks对下一代数据湖架构的理解 
+- 从Lakehouse看Databricks对下一代数据湖架构的理解 <br>
 https://zhuanlan.zhihu.com/p/462094560 
 https://zhuanlan.zhihu.com/p/378504852 
 https://developer.aliyun.com/article/872948 
 
-- 使用 Azure Databricks 编排 MLOps 
+- 使用 Azure Databricks 编排 MLOps <br>
 https://learn.microsoft.com/zh-cn/azure/architecture/reference-architectures/ai/orchestrate-mlops-azure-databricks
 
-- 尚硅谷YYDS (课件资料) 
+- 尚硅谷YYDS (课件资料) <br>
 https://www.cnblogs.com/30go/p/16376826.html
 
-- ChatGPT官网 
+- ChatGPT官网 <br>
 https://chat.openai.com/auth/login
 
-- 泰坦尼克预测 
+- 泰坦尼克预测 <br>
 https://github.com/bensadeghi/Databricks-DataScience-Titanic 
 https://github.com/opsabarsec/titanic_on_databricks 
 
-- markdown语法 
+- markdown语法 <br>
 https://markdown.com.cn/basic-syntax/lists.html
