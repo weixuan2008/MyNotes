@@ -44,7 +44,7 @@ https://www.cnblogs.com/30go/p/16376826.html
 
 ChatGPT官网  https://chat.openai.com/auth/login
 
-泰坦尼克预测
-https://github.com/bensadeghi/Databricks-DataScience-Titanic
-https://github.com/opsabarsec/titanic_on_databricks
+泰坦尼克预测 
+https://github.com/bensadeghi/Databricks-DataScience-Titanic 
+https://github.com/opsabarsec/titanic_on_databricks 
 
