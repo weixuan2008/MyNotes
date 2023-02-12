@@ -55,5 +55,8 @@ https://markdown.com.cn/basic-syntax/lists.html <br>
 https://landscape.cncf.io/ <br>
 
 - **databrics** <br>
-https://www.databricks.com/discover/demos/databricks-platform-demo#trial-form 
+https://www.databricks.com/discover/demos/databricks-platform-demo#trial-form <br>
 
+- **anyscale** <br>
+https://www.anyscale.com/ <br>
+https://www.anyscale.com/ray-open-source <br>
