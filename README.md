@@ -60,3 +60,16 @@ https://www.databricks.com/discover/demos/databricks-platform-demo#trial-form <b
 - **anyscale** <br>
 https://www.anyscale.com/ <br>
 https://www.anyscale.com/ray-open-source <br>
+
+
+- **微服务设计文档-概要设计** <br>
+https://www.cnblogs.com/faxysys/p/15664467.html 
+
+- **搭建一个完整的微服务系统** <br>
+https://blog.csdn.net/yuyryd/article/details/106983919 
+
+- **基于 DDD 的微服务设计和开发实战** <br>
+https://www.infoq.cn/article/s_LFUlU6ZQODd030RbH9 
+
+- **微服务解决方案示例** <br>
+https://docs.abp.io/zh-Hans/abp/latest/Samples/Microservice-Demo 
