@@ -77,6 +77,10 @@ https://docs.abp.io/zh-Hans/abp/latest/Samples/Microservice-Demo
 - **Mall4Cloud** <br>
 https://github.com/gz-yami/mall4cloud 
 
-- **谷粒电商** <br>
-项目：https://github.com/zsy0216/guli-mall
-文档：https://www.yuque.com/zhangshuaiyin/guli-mall
+- **谷粒电商** <br> 
+项目：https://github.com/zsy0216/guli-mall 
+文档：https://www.yuque.com/zhangshuaiyin/guli-mall 
+
+- **若依微服务** <br>
+文档地址：http://doc.ruoyi.vip/ruoyi-cloud 
+代码地址：https://gitee.com/y_project/RuoYi-Cloud 
