@@ -73,3 +73,10 @@ https://www.infoq.cn/article/s_LFUlU6ZQODd030RbH9
 
 - **微服务解决方案示例** <br>
 https://docs.abp.io/zh-Hans/abp/latest/Samples/Microservice-Demo 
+
+- **Mall4Cloud** <br>
+https://github.com/gz-yami/mall4cloud 
+
+- **谷粒电商** <br>
+项目：https://github.com/zsy0216/guli-mall
+文档：https://www.yuque.com/zhangshuaiyin/guli-mall
