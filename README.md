@@ -84,7 +84,8 @@ https://github.com/gz-yami/mall4cloud
 - **若依微服务** <br>
 文档地址：http://doc.ruoyi.vip/ruoyi-cloud <br> 
 代码地址：https://github.com/YunaiV/yudao-cloud <br> 
-         
 
+- **How To Create a Bitmap Font with FreeType** <br>
+https://levelup.gitconnected.com/how-to-create-a-bitmap-font-with-freetype-58e8c31878a9 <br> 
 
 
