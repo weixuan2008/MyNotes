@@ -87,5 +87,13 @@ https://github.com/gz-yami/mall4cloud
 
 - **How To Create a Bitmap Font with FreeType** <br>
 https://levelup.gitconnected.com/how-to-create-a-bitmap-font-with-freetype-58e8c31878a9 <br> 
+https://yycking.pixnet.net/blog/post/154177252 <br> 
+https://blog.csdn.net/hgl868/article/details/7227071 <br> 
+https://learnopengl.com/In-Practice/Text-Rendering <br> 
+https://learnopengl.com/In-Practice/2D-Game/Render-text <br> 
+https://stackoverflow.com/questions/41533586/freetype-renders-crap-in-bitmap <br> 
+https://stackoverflow.com/questions/2349069/issue-with-freetype-and-opengl <br> 
+https://stuff.mit.edu/afs/athena/astaff/source/src-9.0/third/freetype/docs/tutorial/step1.html <br> 
+
 
 
