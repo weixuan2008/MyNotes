@@ -96,4 +96,6 @@ https://stackoverflow.com/questions/2349069/issue-with-freetype-and-opengl <br>
 https://stuff.mit.edu/afs/athena/astaff/source/src-9.0/third/freetype/docs/tutorial/step1.html <br> 
 
 
+- **istio** <br>
+https://istio.io/latest/docs/examples/bookinfo/  
 
