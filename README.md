@@ -98,7 +98,7 @@ https://stuff.mit.edu/afs/athena/astaff/source/src-9.0/third/freetype/docs/tutor
 
 - **istio** <br>
 https://istio.io/latest/docs/examples/bookinfo/  
-https://piotrminkowski.com/2020/06/01/service-mesh-on-kubernetes-with-istio-and-spring-boot/ 
-istio-tutorial https://github.com/redhat-scholars/istio-tutorial 
-learn-istio https://github.com/askmeegs/learn-istio
-istio-workshop https://github.com/retroryan/istio-workshop
+https://piotrminkowski.com/2020/06/01/service-mesh-on-kubernetes-with-istio-and-spring-boot/ <br>
+istio-tutorial https://github.com/redhat-scholars/istio-tutorial <br>
+learn-istio https://github.com/askmeegs/learn-istio<br>
+istio-workshop https://github.com/retroryan/istio-workshop<br>
