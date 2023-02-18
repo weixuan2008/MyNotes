@@ -102,3 +102,12 @@ istio-and-spring-boot https://piotrminkowski.com/2020/06/01/service-mesh-on-kube
 istio-tutorial https://github.com/redhat-scholars/istio-tutorial <br>
 learn-istio https://github.com/askmeegs/learn-istio<br>
 istio-workshop https://github.com/retroryan/istio-workshop<br>
+https://jimmysong.io/kubernetes-handbook/usecases/istio.html<br>
+https://www.bookstack.cn/read/istio-1.17-zh/1ce7b7468b93a662.md<br>
+
+- **infoq** <br>
+https://www.infoq.cn/<br>
+
+
+
+
