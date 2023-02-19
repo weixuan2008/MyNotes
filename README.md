@@ -105,7 +105,7 @@ istio-workshop https://github.com/retroryan/istio-workshop<br>
 https://jimmysong.io/kubernetes-handbook/usecases/istio.html<br>
 https://www.bookstack.cn/read/istio-1.17-zh/1ce7b7468b93a662.md<br>
 最新istio官方文档 https://istio.io/latest/zh/docs/<br>
-
+几种微服务架构的比较 https://www.51cto.com/article/746784.html<br>
 
 - **infoq** <br>
 https://www.infoq.cn/<br>
