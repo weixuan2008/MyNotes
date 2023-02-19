@@ -111,6 +111,7 @@ https://www.bookstack.cn/read/istio-1.17-zh/1ce7b7468b93a662.md<br>
 
 - **infoq** <br>
 https://www.infoq.cn/<br>
+https://lib.jimmysong.io/wasm-definitive-guide/wasm-tables/
 
 
 
