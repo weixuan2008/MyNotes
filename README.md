@@ -107,6 +107,8 @@ https://jimmysong.io/kubernetes-handbook/usecases/istio.html<br>
 最新istio官方文档 https://istio.io/latest/zh/docs/<br>
 几种微服务架构的比较 https://www.51cto.com/article/746784.html<br>
 10 张图轻松搞懂服务网格 https://zhuanlan.zhihu.com/p/545834713 <br>
+Install with Helm https://istio.io/latest/docs/setup/install/helm/ <br>
+Install with Istioctl https://istio.io/latest/docs/setup/install/istioctl/ <br>
 
 
 - **infoq** <br>
