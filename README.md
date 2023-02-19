@@ -98,12 +98,12 @@ https://stuff.mit.edu/afs/athena/astaff/source/src-9.0/third/freetype/docs/tutor
 
 - **istio** <br>
 Bookinfo Application https://istio.io/latest/docs/examples/bookinfo/  
+Bookinfo 应用 https://www.bookstack.cn/read/istio-1.17-zh/1ce7b7468b93a662.md<br>
 istio-and-spring-boot https://piotrminkowski.com/2020/06/01/service-mesh-on-kubernetes-with-istio-and-spring-boot/ <br>
 istio-tutorial https://github.com/redhat-scholars/istio-tutorial <br>
 learn-istio https://github.com/askmeegs/learn-istio<br>
 istio-workshop https://github.com/retroryan/istio-workshop<br>
 https://jimmysong.io/kubernetes-handbook/usecases/istio.html<br>
-https://www.bookstack.cn/read/istio-1.17-zh/1ce7b7468b93a662.md<br>
 最新istio官方文档 https://istio.io/latest/zh/docs/<br>
 几种微服务架构的比较 https://www.51cto.com/article/746784.html<br>
 10 张图轻松搞懂服务网格 https://zhuanlan.zhihu.com/p/545834713 <br>
