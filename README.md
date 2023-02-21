@@ -110,6 +110,7 @@ https://jimmysong.io/kubernetes-handbook/usecases/istio.html<br>
 Install with Helm https://istio.io/latest/docs/setup/install/helm/ <br>
 Install with Istioctl https://istio.io/latest/docs/setup/install/istioctl/ <br>
 Istio 1.16 实验手册 https://zhuanlan.zhihu.com/p/592036297 <br>
+凤凰架构 http://icyfenix.cn/exploration/projects/servicemesh_arch_istio.html <br>
 
 - **infoq** <br>
 https://www.infoq.cn/<br>
