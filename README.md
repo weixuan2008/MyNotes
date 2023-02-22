@@ -116,6 +116,10 @@ Istio 1.16 实验手册 https://zhuanlan.zhihu.com/p/592036297 <br>
 https://www.infoq.cn/<br>
 https://lib.jimmysong.io/wasm-definitive-guide/wasm-tables/
 
+- **font shaping** <br>
+http://www.unicode.org/charts/PDF/U1780.pdf <br>
+https://en.wikipedia.org/wiki/Khmer_script#Unicode <br>
+https://github.com/n8willis/opentype-shaping-documents <br>
 
 
 
