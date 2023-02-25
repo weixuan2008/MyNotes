@@ -112,6 +112,8 @@ Install with Istioctl https://istio.io/latest/docs/setup/install/istioctl/ <br>
 Istio 1.16 实验手册 https://zhuanlan.zhihu.com/p/592036297 <br>
 凤凰架构 http://icyfenix.cn/exploration/projects/servicemesh_arch_istio.html <br>
 k8s官网 https://kubernetes.io/<br>
+在K8S平台部署Spring Cloud微服务项目 https://blog.csdn.net/weixin_45623111/article/details/105215255<br>
+
 
 - **infoq** <br>
 https://www.infoq.cn/<br>
