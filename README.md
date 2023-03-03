@@ -124,7 +124,7 @@ http://www.unicode.org/charts/PDF/U1780.pdf <br>
 https://en.wikipedia.org/wiki/Khmer_script#Unicode <br>
 https://github.com/n8willis/opentype-shaping-documents <br>
 
-- **--------------------------个人精选------------------------------<br>
+- **--------------------------个人精选------------------------------
 - **Jimmy Song** <br>
 https://jimmysong.io/ <br>
 
