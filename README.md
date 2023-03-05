@@ -127,6 +127,21 @@ https://github.com/n8willis/opentype-shaping-documents <br>
 - **--------------------------个人精选------------------------------
 - **Jimmy Song** <br>
 https://jimmysong.io/ <br>
-
+https://github.com/YunaiV/ruoyi-vue-pro <br>
+https://github.com/NiceSeason/gulimall-learning <br>
+https://github.com/zsy0216/guli-mall <br>
+https://github.com/gavenwangcn/vole <br>
+https://github.com/ewolff/microservice-istio <br>
+https://github.com/spring-avengers/summerframework <br>
+https://github.com/pranav-patil/spring-microservices <br>
+https://github.com/eclipse/microprofile-conference <br>
+https://github.com/dapeng-soa/dapeng-soa <br>
+https://github.com/micronaut-projects/micronaut-aws <br>
+https://github.com/jeffreyning/nh-micro <br>
+https://github.com/Rapter1990/SpringBootMicroservices <br>
+https://github.com/yangzongzhuan/RuoYi	 <br>
+https://github.com/lerry903/RuoYi <br>
+https://github.com/zhangmrit/ruoyi-cloud <br>
+https://www.yuque.com/zhangshuaiyin/guli-mall <br>
 
 
