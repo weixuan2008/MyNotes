@@ -146,3 +146,11 @@ https://www.yuque.com/zhangshuaiyin/guli-mall <br>
 
 - **PDF Library** <br>
 https://poppler.freedesktop.org/ 
+
+- **DDD** <br>
+https://blog.csdn.net/whos2016/article/details/103927879  
+https://github.com/smingjie/bbq-ddd   
+https://blog.csdn.net/w1lgy/article/details/111566243  
+https://cloud.tencent.com/developer/article/1738058  
+
+
