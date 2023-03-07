@@ -147,6 +147,12 @@ https://www.yuque.com/zhangshuaiyin/guli-mall <br>
 
 - **PDF Library** <br>
 https://poppler.freedesktop.org/ 
+https://github.com/HOST-Oman/libraqm
+https://github.com/HOST-Oman/scribus
+https://github.com/chfoo/cobbletext
+https://github.com/salshaaban/BidiRenderer
+https://github.com/wesrobb/simple-ui
+
 
 - **DDD** <br>
 https://blog.csdn.net/whos2016/article/details/103927879  
