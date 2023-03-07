@@ -164,3 +164,7 @@ https://www.cnblogs.com/xiaofuge/p/14536530.html
 https://www.baeldung.com/hexagonal-architecture-ddd-spring 
 https://www.javainuse.com/spring/boot_hex 
 
+- **k8s** <br>
+https://blog.guanshizhai.online/gongzuo/k8s%e9%85%8d%e7%bd%aeingress%e8%ae%bf%e9%97%ae
+
+
