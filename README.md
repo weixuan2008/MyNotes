@@ -174,4 +174,7 @@ https://learn.microsoft.com/en-us/azure/architecture/microservices/model/tactica
 https://learn.microsoft.com/en-us/azure/architecture/industries/healthcare  
 https://learn.microsoft.com/en-us/azure/architecture/guide/  
 https://learn.microsoft.com/en-us/azure/architecture/patterns/  
+https://learn.microsoft.com/en-us/azure/network-watcher/view-network-topology#view-topology---azure-portal 
+https://github.com/PrateekKumarSingh/AzViz 
+
 
