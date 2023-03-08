@@ -167,4 +167,11 @@ https://www.javainuse.com/spring/boot_hex
 - **k8s** <br>
 https://blog.guanshizhai.online/gongzuo/k8s%e9%85%8d%e7%bd%aeingress%e8%ae%bf%e9%97%ae
 
+- **azure** <br>
+https://learn.microsoft.com/en-us/azure/architecture/  
+https://learn.microsoft.com/en-us/azure/architecture/browse/  
+https://learn.microsoft.com/en-us/azure/architecture/microservices/model/tactical-ddd  
+https://learn.microsoft.com/en-us/azure/architecture/industries/healthcare  
+https://learn.microsoft.com/en-us/azure/architecture/guide/  
+https://learn.microsoft.com/en-us/azure/architecture/patterns/  
 
