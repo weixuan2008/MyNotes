@@ -144,6 +144,9 @@ https://github.com/yangzongzhuan/RuoYi	 <br>
 https://github.com/lerry903/RuoYi <br>
 https://github.com/zhangmrit/ruoyi-cloud <br>
 https://www.yuque.com/zhangshuaiyin/guli-mall <br>
+https://zq99299.github.io/note-book2/  
+
+
 
 - **PDF Library** <br>
 https://poppler.freedesktop.org/  
