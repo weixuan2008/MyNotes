@@ -167,6 +167,12 @@ https://www.javainuse.com/spring/boot_hex
 https://github.com/alibaba/COLA   
 https://blog.csdn.net/significantfrank/article/details/110934799  
 https://www.jianshu.com/p/6a00d6912f45   
+https://www.cnblogs.com/dennyzhangdd/p/14376904.html 
+https://www.zhihu.com/question/481820861 
+https://github.com/ouchuangxin/leave-sample   
+https://learn.microsoft.com/zh-cn/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice
+
+
 
 - **k8s** <br>
 https://blog.guanshizhai.online/gongzuo/k8s%e9%85%8d%e7%bd%aeingress%e8%ae%bf%e9%97%ae 
