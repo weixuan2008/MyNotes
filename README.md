@@ -153,7 +153,7 @@ https://github.com/chfoo/cobbletext
 https://github.com/salshaaban/BidiRenderer  
 https://github.com/wesrobb/simple-ui  
 https://blog.csdn.net/turbolove/article/details/129175759  
-
+https://github.com/n8willis/opentype-shaping-documents/blob/master/opentype-shaping-khmer.md  
 
 - **DDD** <br>
 https://blog.csdn.net/whos2016/article/details/103927879  
