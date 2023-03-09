@@ -168,10 +168,10 @@ https://www.cnblogs.com/xiaofuge/p/14536530.html
 https://www.baeldung.com/hexagonal-architecture-ddd-spring  
 https://www.javainuse.com/spring/boot_hex  
 https://github.com/alibaba/COLA   
-https://blog.csdn.net/significantfrank/article/details/110934799  
-https://www.jianshu.com/p/6a00d6912f45   
-https://www.cnblogs.com/dennyzhangdd/p/14376904.html 
-https://www.zhihu.com/question/481820861 
+https://blog.csdn.net/significantfrank/article/details/110934799   
+https://www.jianshu.com/p/6a00d6912f45    
+https://www.cnblogs.com/dennyzhangdd/p/14376904.html   
+https://www.zhihu.com/question/481820861   
 https://github.com/ouchuangxin/leave-sample   
 https://learn.microsoft.com/zh-cn/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice
 
