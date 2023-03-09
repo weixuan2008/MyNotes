@@ -152,6 +152,7 @@ https://github.com/HOST-Oman/scribus
 https://github.com/chfoo/cobbletext  
 https://github.com/salshaaban/BidiRenderer  
 https://github.com/wesrobb/simple-ui  
+https://blog.csdn.net/turbolove/article/details/129175759  
 
 
 - **DDD** <br>
@@ -160,15 +161,15 @@ https://github.com/smingjie/bbq-ddd
 https://blog.csdn.net/w1lgy/article/details/111566243  
 https://cloud.tencent.com/developer/article/1738058  
 https://developer.aliyun.com/article/944026?spm=a2c6h.12873639.article-detail.35.b7f63dd7uEnXNu&scm=20140722.ID_community@@article@@944026._.ID_community@@article@@944026-OR_rec-V_1 
-https://www.cnblogs.com/xiaofuge/p/14536530.html 
-https://www.baeldung.com/hexagonal-architecture-ddd-spring 
-https://www.javainuse.com/spring/boot_hex 
-https://github.com/alibaba/COLA  
-https://blog.csdn.net/significantfrank/article/details/110934799 
-https://www.jianshu.com/p/6a00d6912f45  
+https://www.cnblogs.com/xiaofuge/p/14536530.html  
+https://www.baeldung.com/hexagonal-architecture-ddd-spring  
+https://www.javainuse.com/spring/boot_hex  
+https://github.com/alibaba/COLA   
+https://blog.csdn.net/significantfrank/article/details/110934799  
+https://www.jianshu.com/p/6a00d6912f45   
 
 - **k8s** <br>
-https://blog.guanshizhai.online/gongzuo/k8s%e9%85%8d%e7%bd%aeingress%e8%ae%bf%e9%97%ae
+https://blog.guanshizhai.online/gongzuo/k8s%e9%85%8d%e7%bd%aeingress%e8%ae%bf%e9%97%ae 
 
 - **azure** <br>
 https://learn.microsoft.com/en-us/azure/architecture/  
