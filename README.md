@@ -127,6 +127,7 @@ https://github.com/n8willis/opentype-shaping-documents <br>
 
 - **--------------------------个人精选------------------------------
 - **Jimmy Song** <br>
+https://github.com/donnemartin/system-design-primer  
 https://jimmysong.io/ <br>
 https://github.com/YunaiV/ruoyi-vue-pro <br>
 https://github.com/NiceSeason/gulimall-learning <br>
