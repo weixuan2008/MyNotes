@@ -147,6 +147,7 @@ https://github.com/lerry903/RuoYi <br>
 https://github.com/zhangmrit/ruoyi-cloud <br>
 https://www.yuque.com/zhangshuaiyin/guli-mall <br>
 https://zq99299.github.io/note-book2/  
+https://github.com/spring-petclinic/spring-petclinic-microservices  
 
 
 
