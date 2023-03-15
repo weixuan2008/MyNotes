@@ -167,19 +167,24 @@ https://blog.csdn.net/whos2016/article/details/103927879
 https://github.com/smingjie/bbq-ddd   
 https://blog.csdn.net/w1lgy/article/details/111566243  
 https://cloud.tencent.com/developer/article/1738058  
-https://developer.aliyun.com/article/944026?spm=a2c6h.12873639.article-detail.35.b7f63dd7uEnXNu&scm=20140722.ID_community@@article@@944026._.ID_community@@article@@944026-OR_rec-V_1 
-https://www.cnblogs.com/xiaofuge/p/14536530.html  
-https://www.baeldung.com/hexagonal-architecture-ddd-spring  
-https://www.javainuse.com/spring/boot_hex  
-https://github.com/alibaba/COLA   
+https://developer.aliyun.com/article/944026?spm=a2c6h.12873639.article-detail.35.b7f63dd7uEnXNu&scm=20140722.ID_community@@article@@944026._.ID_community@@article@@944026-OR_rec-V_1  
+https://www.cnblogs.com/xiaofuge/p/14536530.html   
+https://www.baeldung.com/hexagonal-architecture-ddd-spring   
+https://www.javainuse.com/spring/boot_hex   
+https://github.com/alibaba/COLA    
 https://blog.csdn.net/significantfrank/article/details/110934799   
-https://www.jianshu.com/p/6a00d6912f45    
-https://www.cnblogs.com/dennyzhangdd/p/14376904.html   
-https://www.zhihu.com/question/481820861   
-https://github.com/ouchuangxin/leave-sample   
-https://learn.microsoft.com/zh-cn/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice
-
-
+https://www.jianshu.com/p/6a00d6912f45     
+https://www.cnblogs.com/dennyzhangdd/p/14376904.html    
+https://www.zhihu.com/question/481820861    
+https://github.com/ouchuangxin/leave-sample    
+https://learn.microsoft.com/zh-cn/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice   
+https://xie.infoq.cn/article/6c0694dba5a179aaf1bab4a95  
+https://en.wikipedia.org/wiki/Domain-driven_design  
+https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice  
+https://www.cnblogs.com/jiyukai/p/14830869.html  
+https://cloud.tencent.com/developer/article/1560061    
+https://www.jianshu.com/p/a775836c7e25  
+https://zhuanlan.zhihu.com/p/176195288  
 
 - **k8s** <br>
 https://blog.guanshizhai.online/gongzuo/k8s%e9%85%8d%e7%bd%aeingress%e8%ae%bf%e9%97%ae 
