@@ -1,6 +1,10 @@
 - **XMRTH** <br>
 https://xmrth.vip/user <br>
 
+- **QCon** <br>
+https://www.infoq.com/?utm_source=infoq&utm_medium=youtube&utm_campaign=infoqyoutube
+
+
 - **UMDH memory leak** <br> 
 https://blog.csdn.net/qingyang0320/article/details/125487072 <br>
 https://www.jianshu.com/p/01b18e174bb0 <br>
