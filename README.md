@@ -194,6 +194,8 @@ https://zhuanlan.zhihu.com/p/176195288
 
 - **k8s** <br>
 https://blog.guanshizhai.online/gongzuo/k8s%e9%85%8d%e7%bd%aeingress%e8%ae%bf%e9%97%ae 
+https://metallb.universe.tf/installation/  
+
 
 - **azure** <br>
 https://learn.microsoft.com/en-us/azure/architecture/  
