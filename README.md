@@ -124,6 +124,10 @@ https://tetrate-academy.thinkific.com/courses/take/istio-fundamentals-zh/lessons
 在生产环境使用 Istio 前的若干考虑要素 https://juejin.cn/post/6934953342141464584
 https://www.istioworkshop.io/03-servicemesh-overview/istio-architecture/  
 https://blog.nebrass.fr/playing-with-istio-service-mesh-on-kubernetes/  
+https://github.com/tetratelabs/istio-weekly   
+https://github.com/rfyiamcool/share_ppt  
+https://github.com/cloudnativeto/academy/tree/master/service-mesh-summit/2022  
+
 
 
 - **infoq** <br>
