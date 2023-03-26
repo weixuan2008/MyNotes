@@ -170,6 +170,15 @@ https://github.com/salshaaban/BidiRenderer
 https://github.com/wesrobb/simple-ui  
 https://blog.csdn.net/turbolove/article/details/129175759  
 https://github.com/n8willis/opentype-shaping-documents/blob/master/opentype-shaping-khmer.md  
+https://github.com/kentaroid/ofxTrueTypeFontUL2   
+https://github.com/aam/skiaex  
+https://github.com/googlefonts/fontview 
+https://github.com/r-lib/textshaping 
+https://github.com/deepango/DemoHarfbuzzApp  
+https://github.com/herm/harfbuzz-test  
+https://github.com/ricedroidOSS/android_external_harfbuzz_ng  
+https://github.com/sailfishos-mirror/harfbuzz  
+https://github.com/wutipong/drawtext-sdl2-stb_truetype-harfbuzz  
 
 - **DDD** <br>
 https://blog.csdn.net/whos2016/article/details/103927879  
