@@ -122,7 +122,7 @@ https://github.com/tetratelabs/microservices-demo
 https://tetrate-academy.thinkific.com/courses/take/istio-fundamentals-zh/lessons/26470009-1-2   
 9 张图带你搞懂 Istio https://cloud.tencent.com/developer/article/1757881  
 在生产环境使用 Istio 前的若干考虑要素 https://juejin.cn/post/6934953342141464584
-
+https://www.istioworkshop.io/03-servicemesh-overview/istio-architecture/  
 - **infoq** <br>
 https://www.infoq.cn/<br>
 https://lib.jimmysong.io/wasm-definitive-guide/wasm-tables/
