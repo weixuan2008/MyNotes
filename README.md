@@ -225,5 +225,5 @@ https://learn.microsoft.com/en-us/azure/architecture/guide/
 https://learn.microsoft.com/en-us/azure/architecture/patterns/  
 https://learn.microsoft.com/en-us/azure/network-watcher/view-network-topology#view-topology---azure-portal 
 https://github.com/PrateekKumarSingh/AzViz 
-
+API 管理  https://learn.microsoft.com/zh-cn/azure/api-management/import-and-publish  
 
