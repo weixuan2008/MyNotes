@@ -217,13 +217,13 @@ https://www.51cto.com/article/717556.html
 https://zhuanlan.zhihu.com/p/103717169
 
 - **azure** <br>
-https://learn.microsoft.com/en-us/azure/architecture/  
-https://learn.microsoft.com/en-us/azure/architecture/browse/  
-https://learn.microsoft.com/en-us/azure/architecture/microservices/model/tactical-ddd  
-https://learn.microsoft.com/en-us/azure/architecture/industries/healthcare  
-https://learn.microsoft.com/en-us/azure/architecture/guide/  
-https://learn.microsoft.com/en-us/azure/architecture/patterns/  
-https://learn.microsoft.com/en-us/azure/network-watcher/view-network-topology#view-topology---azure-portal 
-https://github.com/PrateekKumarSingh/AzViz 
+https://learn.microsoft.com/en-us/azure/architecture/   
+https://learn.microsoft.com/en-us/azure/architecture/browse/   
+https://learn.microsoft.com/en-us/azure/architecture/microservices/model/tactical-ddd   
+https://learn.microsoft.com/en-us/azure/architecture/industries/healthcare   
+https://learn.microsoft.com/en-us/azure/architecture/guide/   
+https://learn.microsoft.com/en-us/azure/architecture/patterns/   
+https://learn.microsoft.com/en-us/azure/network-watcher/view-network-topology#view-topology---azure-portal   
+https://github.com/PrateekKumarSingh/AzViz   
 API 管理  https://learn.microsoft.com/zh-cn/azure/api-management/import-and-publish  
 
