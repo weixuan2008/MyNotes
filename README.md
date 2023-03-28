@@ -230,5 +230,10 @@ API 管理定价层 https://learn.microsoft.com/zh-cn/azure/api-management/api-m
 Azure Stack Sample https://docs.microsoft.com/zh-cn/samples/azure-samples/virtual-machines-python-manage/azure-virtual-machines-management-samples---python/?context=/azure/virtual-machines/context/context   
 
 
+- **nodejs addon** <br>
+https://blog.csdn.net/shaosunrise/article/details/113086474  
+https://nodejs.cn/api/addons/wrapping_c_objects.html  
+
+
 
 
