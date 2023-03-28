@@ -227,3 +227,8 @@ https://learn.microsoft.com/en-us/azure/network-watcher/view-network-topology#vi
 https://github.com/PrateekKumarSingh/AzViz   
 API 管理  https://learn.microsoft.com/zh-cn/azure/api-management/import-and-publish  
 API 管理定价层 https://learn.microsoft.com/zh-cn/azure/api-management/api-management-features    
+Azure Stack Sample https://docs.microsoft.com/zh-cn/samples/azure-samples/virtual-machines-python-manage/azure-virtual-machines-management-samples---python/?context=/azure/virtual-machines/context/context   
+
+
+
+
