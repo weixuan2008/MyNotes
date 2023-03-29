@@ -1,0 +1,41 @@
+如何检查Node和npm工具的版本？
+D:\>node --version  
+v12.14.1  
+  
+D:\>npm --version  
+6.13.4  
+
+
+查找已安装的Nodejs环境的V8引擎版本
+Nodejs有很多依赖二进制的版本，目前v8是其中之一。npm版本命令显示所有依赖组件版本的列表，如下图所示。
+D:\>npm version  
+  
+
+
+另一种方法是使用node -pe命令选项。
+D:\>node -pe process.versions  
+ 
+
+
+所有这些依赖二进制版本的元信息都存储在全局对象中-process 。
+Node命令获得v8的版本。
+D:\>node -p process.versions.v8  
+7.7.299.13-node.16  
+
+
+使用REPL命令
+REPL是命令行测试环境，可以在命令行中测试nodejs的功能。 输入node命令
+D:\>node  
+Welcome to Node.js v12.14.1.  
+Type ".help" for more information.  
+> 
+
+在提示符中输入process.visions.v8文本
+D:\>node  
+Welcome to Node.js v12.14.1.  
+Type ".help" for more information.  
+>                                                                                                                                                               
+'7.7.299.13-node.16'  
+
+
+总结
