@@ -237,6 +237,15 @@ https://github.com/RealJackYeh/cpp_node_modules
 https://github.com/lmshao/Node.js-Cpp-Addons   
 https://nodejs.org/docs/latest-v8.x/api/addons.html   
 https://github.com/RealJackYeh/cpp_node_modules  
+https://xcoder.in/2017/07/01/nodejs-addon-history/  
+https://nodejs.org/api/n-api.html 
+
+
+
+
+
+
+
 
 
 
