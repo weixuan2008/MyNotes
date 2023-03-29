@@ -234,8 +234,9 @@ Azure Stack Sample https://docs.microsoft.com/zh-cn/samples/azure-samples/virtua
 https://blog.csdn.net/shaosunrise/article/details/113086474  
 https://nodejs.cn/api/addons/wrapping_c_objects.html  
 https://github.com/RealJackYeh/cpp_node_modules  
-
-
+https://github.com/lmshao/Node.js-Cpp-Addons   
+https://nodejs.org/docs/latest-v8.x/api/addons.html   
+https://github.com/RealJackYeh/cpp_node_modules  
 
 
 
