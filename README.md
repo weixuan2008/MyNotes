@@ -217,6 +217,7 @@ https://www.51cto.com/article/717556.html
 https://zhuanlan.zhihu.com/p/103717169
 
 - **azure** <br>
+AzureTipsAndTricks https://microsoft.github.io/AzureTipsAndTricks/   
 https://learn.microsoft.com/en-us/azure/architecture/   
 https://learn.microsoft.com/en-us/azure/architecture/browse/   
 https://learn.microsoft.com/en-us/azure/architecture/microservices/model/tactical-ddd   
