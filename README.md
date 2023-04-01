@@ -248,6 +248,11 @@ https://github.com/EnableSecurity/wafw00f
 https://mp.weixin.qq.com/s/kRrELJquobgnXXz2ItRNxw    
 
 
+- **service mesh** <br>
+https://openservicemesh.io/  
+https://github.com/openservicemesh/osm   
+
+
 
 
 
