@@ -233,6 +233,7 @@ azure key vault https://learn.microsoft.com/zh-cn/azure/key-vault/general/overvi
 
 
 - **nodejs addon** <br>
+https://github.com/nodejs/node-addon-examples  
 https://blog.csdn.net/shaosunrise/article/details/113086474  
 https://nodejs.cn/api/addons/wrapping_c_objects.html  
 https://github.com/RealJackYeh/cpp_node_modules  
