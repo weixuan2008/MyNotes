@@ -260,8 +260,12 @@ https://github.com/alibaba/nacos
 https://space.bilibili.com/180074935/video  
 https://www.bilibili.com/video/BV1p24y1L7g9/?spm_id_from=333.1007.tianma.2-2-5.click&vd_source=f8c1932772f7486a3d4d892f8fac2df5   
 
-
-
+https://github.com/tsoding/harfbuzz-example/blob/master/main.c  
+https://github.com/Tehreer/Tehreer-Android   
+https://github.com/Tehreer/Tehreer-Cocoa  
+https://github.com/wonrst/Harfbuzz-myanmar  
+https://github.com/AbedSrour/harfbuzz_textdrawing_sample   
+https://github.com/aronsoyol/MTC  
 
 
 
