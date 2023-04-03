@@ -1,80 +1,14 @@
-如何将harfbuzz shape后的glyph生成bitmap转换成libharu中的HPDF_Image，请将整个过程以c++ 编码输出
-
-1. 使用Harfbuzz库将文本字符串转换为字形。
-
-#include <hb.h>
-#include <hb-ft.h>
-#include <ft2build.h>
-#include FT_FREETYPE_H
-
-// 初始化Freetype库
-FT_Library ftLibrary;
-FT_Init_FreeType(&ftLibrary);
-
-// 创建一个FreeType面
-FT_Face ftFace;
-FT_New_Face(ftLibrary, "font.ttf", 0, &ftFace);
-
-// 初始化Harfbuzz库
-hb_buffer_t* buffer = hb_buffer_create();
-
-// 将文本字符串添加到Harfbuzz缓冲区中
-hb_buffer_add_utf8(buffer, "Hello World!", -1, 0, -1);
-
-// 为缓冲区设置脚本、语言和方向
-hb_buffer_set_direction(buffer, HB_DIRECTION_LTR);
-hb_buffer_set_script(buffer, HB_SCRIPT_LATIN);
-hb_buffer_set_language(buffer, hb_language_from_string("en", -1));
-
-// 将FreeType面加载到Harfbuzz中
-hb_ft_font_t* hbFont = hb_ft_font_create(ftFace, NULL);
-hb_font_t* font = hb_font_create(hbFont);
-
-// 将缓冲区形状化
-hb_shape(font, buffer, NULL, 0);
-
-2. 创建一个LibHaru图像对象，并使用FreeType库将字形渲染到图像中。
-#include <hpdf.h>
-
-// 创建LibHaru图像对象
-HPDF_Image image = HPDF_Image_New(pdf);
-
-// 将图像宽度和高度设置为字形的宽度和高度
-HPDF_Image_SetSize(image, glyph_width, glyph_height);
-
-// 获取图像的缓冲区
-HPDF_BYTE* buffer = HPDF_Image_GetBuffer(image);
-
-// 创建一个FreeType位图对象
-FT_Bitmap bitmap;
-FT_Bitmap_Init(&bitmap);
-
-// 从Harfbuzz字形中提取位图
-hb_glyph_info_t* glyphs = hb_buffer_get_glyph_infos(buffer, &len);
-hb_glyph_position_t* positions = hb_buffer_get_glyph_positions(buffer, &len);
-for (int i = 0; i < len; i++) {
-    hb_glyph_info_t glyph = glyphs[i];
-    hb_glyph_position_t pos = positions[i];
-    FT_Load_Glyph(ftFace, glyph.codepoint, FT_LOAD_DEFAULT);
-    FT_Render_Glyph(ftFace->glyph, FT_RENDER_MODE_NORMAL);
-    FT_Bitmap_Copy(ftLibrary, &ftFace->glyph->bitmap, &bitmap, NULL);
-    // 将位图复制到图像缓冲区中
-    for (int y = 0; y < bitmap.rows; y++) {
-        for (int x = 0; x < bitmap.width; x++) {
-            buffer[(pos.x_offset / 64) + x + ((pos.y_offset / 64) + y) * glyph_width] = bitmap.buffer[x + y * bitmap.pitch];
+    // Create stb_image bitmap from Harfbuzz bitmap
+    int width = hb_buffer_get_glyph(glyph_buffer, 0)->bitmap.width;
+    int height = hb_buffer_get_glyph(glyph_buffer, 0)->bitmap.rows;
+    int pitch = hb_buffer_get_glyph(glyph_buffer, 0)->bitmap.pitch;
+    unsigned char* bitmap_data = (unsigned char*)hb_buffer_get_glyph(glyph_buffer, 0)->bitmap.buffer;
+    unsigned char* bitmap = new unsigned char[width * height];
+    for (int y = 0; y < height; y++) {
+        for (int x = 0; x < width; x++) {
+            bitmap[y * width + x] = bitmap_data[y * pitch + x];
         }
     }
-}
 
-// 释放FreeType位图
-FT_Bitmap_Done(ftLibrary, &bitmap);
-
-
-3. 将LibHaru图像对象添加到PDF文件中。
-
-// 将图像添加到PDF文件中
-HPDF_Image_SetColorSpace(image, HPDF_Page_GetColorSpace(page));
-HPDF_Page_DrawImage(page, image, x, y, glyph_width, glyph
-
-
-
+    // Save stb_image bitmap as PNG image
+    stbi_write_png("glyph.png", width, height, 1, bitmap, width);
