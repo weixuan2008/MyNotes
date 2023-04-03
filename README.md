@@ -263,10 +263,12 @@ https://www.bilibili.com/video/BV1p24y1L7g9/?spm_id_from=333.1007.tianma.2-2-5.c
 https://github.com/tsoding/harfbuzz-example/blob/master/main.c  
 https://github.com/Tehreer/Tehreer-Android   
 https://github.com/Tehreer/Tehreer-Cocoa  
-https://github.com/wonrst/Harfbuzz-myanmar  
-https://github.com/AbedSrour/harfbuzz_textdrawing_sample   
-https://github.com/aronsoyol/MTC  
-
+https://github.com/wonrst/Harfbuzz-myanmar   
+https://github.com/AbedSrour/harfbuzz_textdrawing_sample    
+https://github.com/aronsoyol/MTC   
+https://github.com/sidorares/node-harfbuzz   
+https://github.com/tangrams/harfbuzz-example   
+https://github.com/herm/harfbuzz-test   
 
 
 
