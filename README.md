@@ -127,7 +127,7 @@ https://blog.nebrass.fr/playing-with-istio-service-mesh-on-kubernetes/
 https://github.com/tetratelabs/istio-weekly   
 https://github.com/rfyiamcool/share_ppt  
 https://github.com/cloudnativeto/academy/tree/master/service-mesh-summit/2022  
-
+服务网格对比：Istio vs Linkerd https://zhuanlan.zhihu.com/p/349065547   
 
 
 - **infoq** <br>
