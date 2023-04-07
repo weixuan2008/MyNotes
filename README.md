@@ -208,6 +208,8 @@ https://cloud.tencent.com/developer/article/1560061
 https://www.jianshu.com/p/a775836c7e25  
 https://zhuanlan.zhihu.com/p/176195288  http://jintang.zone/2021/03/15/%E3%80%90%E5%BE%AE%E6%9C%8D%E5%8A%A1%E3%80%91%E5%9F%BA%E4%BA%8EDDD%E7%9A%84%E5%95%86%E5%9F%8E%E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98%EF%BC%88%E5%9B%9B%EF%BC%89--%20%E5%BE%AE%E6%9C%8D%E5%8A%A1%E4%BB%A3%E7%A0%81%E6%A8%A1%E5%9E%8B.html   
 https://cloud.tencent.com/developer/article/1738058  
+https://juejin.cn/post/7034480747683512357   
+https://github.com/evancyz/ddd-learning   
 
 - **k8s** <br>
 https://blog.guanshizhai.online/gongzuo/k8s%e9%85%8d%e7%bd%aeingress%e8%ae%bf%e9%97%ae 
