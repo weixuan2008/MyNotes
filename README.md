@@ -214,10 +214,11 @@ https://github.com/evancyz/ddd-learning
 - **k8s** <br>
 https://blog.guanshizhai.online/gongzuo/k8s%e9%85%8d%e7%bd%aeingress%e8%ae%bf%e9%97%ae 
 https://metallb.universe.tf/installation/  
-https://blog.csdn.net/ssg_cnblog/article/details/127032591  
+https://blog.csdn.net/ssg_cnblog/article/details/127032591    
 https://www.rutron.net/posts/2205/metalb/   
-https://www.51cto.com/article/717556.html
-https://zhuanlan.zhihu.com/p/103717169
+https://www.51cto.com/article/717556.html  
+https://zhuanlan.zhihu.com/p/103717169   
+https://github.com/metallb/metallb/tree/main/configsamples  
 
 - **azure** <br>
 AzureTipsAndTricks https://microsoft.github.io/AzureTipsAndTricks/   
