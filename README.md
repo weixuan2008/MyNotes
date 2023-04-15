@@ -272,10 +272,10 @@ https://github.com/AbedSrour/harfbuzz_textdrawing_sample
 https://github.com/aronsoyol/MTC   
 https://github.com/sidorares/node-harfbuzz   
 https://github.com/tangrams/harfbuzz-example   
-https://github.com/herm/harfbuzz-test   
+https://github.com/herm/harfbuzz-test    
 
 
 
-
+Ingress、LoadBalancer 、NodePort区别 https://blog.csdn.net/m0_45406092/article/details/118910188   
 
 
