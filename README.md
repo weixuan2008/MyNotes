@@ -141,6 +141,7 @@ https://github.com/n8willis/opentype-shaping-documents <br>
 
 - **--------------------------个人精选------------------------------
 https://github.com/lilishop/lilishop  
+https://blog.csdn.net/kangkanglhb88008/article/details/127947544   
 - **Jimmy Song** <br>
 https://www.aia.com/en/investor-relations/overview/results-presentations
 https://github.com/donnemartin/system-design-primer  
