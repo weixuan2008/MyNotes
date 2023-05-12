@@ -1,6 +1,9 @@
 - **azure cert** <br>
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI <br>
 https://www.whizlabs.com/blog/wp-content/uploads/  
+https://www.lalapodo.com/academy   
+
+
 
 - **XMRTH** <br>
 https://xmrth.vip/user <br>
