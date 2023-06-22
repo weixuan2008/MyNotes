@@ -16,3 +16,4 @@ https://github.com/3b1b/manim
 
 https://www.sumatrapdfreader.org/free-pdf-reader
 https://mupdf.com/
+>mutool.exe clean -a -d AIA.pdf plain.pdf
