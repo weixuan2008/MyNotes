@@ -16,4 +16,11 @@ https://github.com/3b1b/manim
 
 https://www.sumatrapdfreader.org/free-pdf-reader
 https://mupdf.com/
->mutool.exe clean -a -d AIA.pdf plain.pdf
+mutool.exe clean -a -d AIA.pdf plain.pdf
+
+
+https://products.fileformat.com/pdf/
+https://products.fileformat.com/spreadsheet/
+
+https://troldal.github.io/openxlsx.html
+https://github.com/troldal/OpenXLSX
