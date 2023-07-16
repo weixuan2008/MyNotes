@@ -17,13 +17,14 @@ https://github.com/TeddyHuang-00/Manim-Explanations
 
 https://latexlive.com/ 
 https://github.com/3b1b/manim 
- https://www.bilibili.com/read/cv2539928 
+https://www.bilibili.com/read/cv2539928 
 
 
 https://www.sumatrapdfreader.org/free-pdf-reader
 https://mupdf.com/
-mutool.exe clean -a -d AIA.pdf plain.pdf
-
+mutool.exe clean -a -d sample.pdf sample_plain.pdf
+pdftk hello-broken.pdf output hello.pdf
+pdftk sample.pdf output sample_uncompressed.pdf uncompress
 
 https://products.fileformat.com/pdf/
 https://products.fileformat.com/spreadsheet/
