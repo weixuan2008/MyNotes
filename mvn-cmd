@@ -1,0 +1,4 @@
+
+mvn clean install
+mvn install source:jar
+mvn dependency:tree -Dverbose
