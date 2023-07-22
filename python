@@ -3,7 +3,10 @@ pip show fpdf2
 pip install fpdf2
 pip uninstall fpdf2
 pip install --no-cache-dir --force-reinstall fpdf2
+pip install E:\Sourcecode\github\fpdf2-harfbuzz
 
+
+https://pyfpdf.github.io/fpdf2/fpdf/fpdf.html#fpdf.fpdf.FPDF.set_text_color
 https://www.360f.com/360-quote/ 
 https://www.neusoft.com/cn/industries/2270/
 http://www.100baotech.com
