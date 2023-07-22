@@ -1,6 +1,7 @@
 pip list
 pip show fpdf2
-
+pip install fpdf2
+pip uninstall fpdf2
 
 
 https://www.360f.com/360-quote/ 
