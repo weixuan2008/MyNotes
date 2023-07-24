@@ -19,3 +19,12 @@ https://github.com/reingart/pyfpdf/blob/master/docs/Tutorial.md
 https://github.com/PyFPDF/fpdf2/discussions/696
 https://github.com/mrchoke/fpdf2-thai-harfbuzz-test/blob/main/fpdf2-thai-hartbuzz.py
 https://blog.csdn.net/qq_40159308/article/details/113646281
+
+
+一键安装常用库 
+pip3 install numpy selenium beautifulsoup4 pandas matplotlib seaborn scipy requests selenium beautifulsoup4 pyquery pymysql pymongo redis flask django jupyter
+
+
+pip freeze > requirements.txt
+pip install -r requirements.txt
+
