@@ -58,8 +58,10 @@ https://www.pdfgpt.io/plan
 https://github.com/bhaskatripathi/pdfGPT
 
 ------------------------------------本地部署chatglm2-----------------------------------
-git lfs install
+git lfs install --skip-smudge
 git clone git@hf.co:THUDM/chatglm2-6b
+git lfs install --force
+
 https://kerwenzhang.github.io/git/2020/04/14/Git-LFS-issue/
 
 
