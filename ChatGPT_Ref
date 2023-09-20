@@ -62,6 +62,9 @@ git lfs install --skip-smudge
 git clone git@hf.co:THUDM/chatglm2-6b
 git lfs install --force
 
+https://huggingface.co/GanymedeNil/text2vec-large-chinese/tree/main
+git clone git@hf.co:GanymedeNil/text2vec-large-chinese
+
 https://kerwenzhang.github.io/git/2020/04/14/Git-LFS-issue/
 git clone git@github.com:chatchat-space/Langchain-Chatchat.git
 
