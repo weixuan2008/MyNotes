@@ -69,5 +69,16 @@ https://kerwenzhang.github.io/git/2020/04/14/Git-LFS-issue/
 git clone git@github.com:chatchat-space/Langchain-Chatchat.git
 
 Integrate with Langchain-Chatchat
+nvidia-smi
+nvcc -V
+import torch
+print(torch.__version__)
+print(torch.cuda.is_available())
+https://pytorch.org/get-started/previous-versions/
+
+https://pytorch.org/get-started/previous-versions/
+pip install torch==2.0.0+cu117 torchvision==0.15.1+cu117 torchaudio==2.0.1 --index-url https://download.pytorch.org/whl/cu117
+
+
 pip install -r requirements.txt
 python startup.py -a
