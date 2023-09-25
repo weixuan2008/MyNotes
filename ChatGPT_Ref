@@ -90,3 +90,8 @@ pip install torch==2.0.0+cu117 torchvision==0.15.1+cu117 torchaudio==2.0.1 --ind
 pip install -r requirements.txt
 python startup.py -a
 https://github.com/THUDM/ChatGLM-6B/issues/162
+
+------------------------------------langchain 学习-----------------------------------
+https://github.com/sugarforever/LangChain-Tutorials
+
+
