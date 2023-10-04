@@ -13,4 +13,9 @@ https://www.twblogs.net/a/5e719d4fbd9eee2117c76e16/?lang=zh-cn
 
 
 
+jupyter显示行数，列数配置
+pd.options.display.max_rows=500
+pd.options.display.max_columns=100
+
+
 
