@@ -14,6 +14,11 @@ https://www.twblogs.net/a/5e719d4fbd9eee2117c76e16/?lang=zh-cn
 https://jeecg3.mydoc.io/?t=286048
 
 
+数据挖掘工具
+https://www.knime.com/
+
+
+
 jupyter显示行数，列数配置
 pd.options.display.max_rows=500
 pd.options.display.max_columns=100
