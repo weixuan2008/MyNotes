@@ -1,0 +1,18 @@
+1. set the environment property OPENSSL_CONF
+set OPENSSL_CONF=E:/tools/openssl-3/x64/bin/openssl.cnf
+
+2. 生成私钥： 
+openssl genrsa -out tss_rpt_eng_pri.key 2048
+
+3. 生成公钥：
+openssl rsa -in tss_rpt_eng_pri.key -pubout -out tss_rpt_eng_pub.key
+
+
+4. 生成证书请求： 
+openssl req -new -key tss_rpt_eng_pri.key -out tss_rpt_eng.csr
+
+5. 创建自签名证书： 
+openssl x509 -req -days 3650 -in tss_rpt_eng.csr -signkey tss_rpt_eng_pri.key -out tss_rpt_eng.crt
+
+6. 将私钥和证书合并为PKCS12格式： 
+openssl pkcs12 -export -in tss_rpt_eng.crt -inkey tss_rpt_eng_pri.key -out tss_rpt_eng.p12
