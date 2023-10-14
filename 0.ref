@@ -17,7 +17,14 @@ https://jeecg3.mydoc.io/?t=286048
 数据挖掘工具
 https://www.knime.com/
 
-
+pdf 签名
+https://pdfix.net/
+https://kb.itextpdf.com/home/it7kb/examples/digital-signing-with-itext
+https://github.com/itext/i7js-signatures/tree/develop
+https://franchi-rafael.medium.com/digital-signature-pkcs7-with-itext-2-1-7-part-1-ffc7e1f7b264
+https://github.com/rfranchi/itext-basic-example/tree/master
+https://pdfa.org/using-itext-7-and-aws-kms-to-digitally-sign-a-pdf-document/
+https://viewbag.wordpress.com/2019/12/24/pdf-digital-signatures-itext7-bouncy-castle-net-core/
 
 jupyter显示行数，列数配置
 pd.options.display.max_rows=500
