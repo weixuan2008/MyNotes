@@ -26,6 +26,24 @@ https://github.com/rfranchi/itext-basic-example/tree/master
 https://pdfa.org/using-itext-7-and-aws-kms-to-digitally-sign-a-pdf-document/
 https://viewbag.wordpress.com/2019/12/24/pdf-digital-signatures-itext7-bouncy-castle-net-core/
 
+PDF签名系列(1):PDF签名机制的漏洞分析
+https://zhuanlan.zhihu.com/p/28591388
+
+http://pdfsig-collision.florz.de/
+
+
+PDF格式分析
+https://www.twblogs.net/u/5b99e0e92b71773ebacd9c68
+
+https://codeantenna.com/a/Qew0lRHLNm
+
+PDF-Explained
+https://github.com/zxyle/PDF-Explained
+https://www.jianshu.com/p/f48cc9077c10
+
+
+
+
 jupyter显示行数，列数配置
 pd.options.display.max_rows=500
 pd.options.display.max_columns=100
