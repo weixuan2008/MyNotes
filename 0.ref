@@ -1,3 +1,17 @@
+nvidia-smi
+nvcc --version
+
+print("是否可用：", torch.cuda.is_available())        # 查看GPU是否可用
+print("GPU数量：", torch.cuda.device_count())        # 查看GPU数量
+print("torch方法查看CUDA版本：", torch.version.cuda)  # torch方法查看CUDA版本
+print("GPU索引号：", torch.cuda.current_device())    # 查看GPU索引号
+print("GPU名称：", torch.cuda.get_device_name(1))    # 根据索引号得到GPU名称
+
+https://developer.nvidia.com/cuda-downloads
+https://pytorch.org/get-started/locally/#windows-pip
+
+---------------------------------------------------------------------------------------------
+
 小傅哥 bugstack 虫洞栈 
 https://bugstack.cn/md/road-map/road-map.html#%E4%B8%89%E3%80%81%E5%85%A8%E8%B2%8C-%E8%B7%AF%E4%B9%A6%E5%9C%B0%E5%9B%BE
 https://github.com/fuzhengwei
