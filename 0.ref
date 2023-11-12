@@ -1,3 +1,4 @@
+ pip list
 nvidia-smi
 nvcc --version
 
