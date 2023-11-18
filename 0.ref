@@ -9,6 +9,8 @@ print("GPU索引号：", torch.cuda.current_device())    # 查看GPU索引号
 print("GPU名称：", torch.cuda.get_device_name(1))    # 根据索引号得到GPU名称
 print(torch.__version__) #注意是双下划线
 
+pip uninstall torch torchvision torchaudio
+
 https://developer.nvidia.com/cuda-downloads
 https://pytorch.org/get-started/locally/#windows-pip
 
