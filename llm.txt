@@ -1,0 +1,3 @@
+https://github.com/pengbaolin/LLM-Augmenter
+https://www.microsoft.com/en-us/research/group/dynamics-insights-apps-artificial-intelligence-machine-learning/articles/prompt-engineering-improving-our-ability-to-communicate-with-an-llm/
+
