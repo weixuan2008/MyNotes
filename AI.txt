@@ -5,7 +5,8 @@ https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.z
 https://cloud.baidu.com/doc/WENXINWORKSHOP/s/Zlmorbt8r
 https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
 
-
+卷积动画演示
+https://animatedai.github.io/
 ------------------------------------FinGPT-----------------------------------
 https://github.com/AI4Finance-Foundation/FinGPT
 
