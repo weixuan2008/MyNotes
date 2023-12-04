@@ -7,6 +7,9 @@ https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
 
 卷积动画演示
 https://animatedai.github.io/
+
+微软semantic-kernel
+https://github.com/microsoft/semantic-kernel
 ------------------------------------FinGPT-----------------------------------
 https://github.com/AI4Finance-Foundation/FinGPT
 
