@@ -10,6 +10,13 @@ https://animatedai.github.io/
 
 微软semantic-kernel
 https://github.com/microsoft/semantic-kernel
+
+大模型paaper
+https://github.com/mli/paper-reading
+
+波斯顿房价预测数据
+http://t.cn/RfHTAgY
+
 ------------------------------------FinGPT-----------------------------------
 https://github.com/AI4Finance-Foundation/FinGPT
 
