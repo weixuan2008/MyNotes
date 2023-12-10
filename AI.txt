@@ -17,6 +17,7 @@ https://github.com/mli/paper-reading
 波斯顿房价预测数据
 http://t.cn/RfHTAgY
 
+https://github.com/pytorch/pytorch/
 ------------------------------------FinGPT-----------------------------------
 https://github.com/AI4Finance-Foundation/FinGPT
 
