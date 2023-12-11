@@ -18,6 +18,9 @@ https://github.com/mli/paper-reading
 http://t.cn/RfHTAgY
 
 https://github.com/pytorch/pytorch/
+
+白泽
+https://github.com/byzer-org/byzer-lang
 ------------------------------------FinGPT-----------------------------------
 https://github.com/AI4Finance-Foundation/FinGPT
 
