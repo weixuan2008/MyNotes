@@ -29,6 +29,9 @@ https://github.com/huggingface/chat-ui
 谷歌Transformers can do anything
 https://colab.research.google.com/drive/1c7MHD-T1forUPGcC_jlwsIptOzpG3hSj
 
+开源大模型食用指南
+https://github.com/datawhalechina/self-llm
+
 ------------------------------------FinGPT-----------------------------------
 https://github.com/AI4Finance-Foundation/FinGPT
 
