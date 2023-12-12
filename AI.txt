@@ -21,6 +21,14 @@ https://github.com/pytorch/pytorch/
 
 白泽
 https://github.com/byzer-org/byzer-lang
+
+llama在huggingface
+https://huggingface.co/chat
+https://github.com/huggingface/chat-ui
+
+谷歌Transformers can do anything
+https://colab.research.google.com/drive/1c7MHD-T1forUPGcC_jlwsIptOzpG3hSj
+
 ------------------------------------FinGPT-----------------------------------
 https://github.com/AI4Finance-Foundation/FinGPT
 
