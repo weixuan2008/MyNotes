@@ -1,5 +1,10 @@
 https://copilot.microsoft.com/
 
+深度学习论文精读
+https://github.com/mli/paper-reading
+
+
+
 GPU 租用
 https://www.autodl.com/home
 https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md
