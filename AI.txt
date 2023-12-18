@@ -3,7 +3,8 @@ https://copilot.microsoft.com/
 深度学习论文精读
 https://github.com/mli/paper-reading
 
-
+”毕昇”开源大模型应用开发平台
+https://github.com/dataelement/bisheng
 
 GPU 租用
 https://www.autodl.com/home
