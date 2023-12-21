@@ -1,5 +1,8 @@
 https://copilot.microsoft.com/
 https://github.com/datawhalechina/agent-tutorial/tree/main
+https://github.com/jmorganca/ollama
+https://python.langchain.com/docs/templates/rag-chroma-private
+https://github.com/langchain-ai/langchain/tree/master/templates
 
 
 深度学习论文精读
