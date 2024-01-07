@@ -1,3 +1,5 @@
+https://github.com/mcks2000/llm_notebooks/blob/main/notebooks/Code_Llama_2_7B.ipynb
+
 https://copilot.microsoft.com/
 https://github.com/datawhalechina/agent-tutorial/tree/main
 https://github.com/jmorganca/ollama
