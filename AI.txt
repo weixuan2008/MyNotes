@@ -1,4 +1,6 @@
 https://github.com/mcks2000/llm_notebooks/blob/main/notebooks/Code_Llama_2_7B.ipynb
+https://github.com/camenduru/text-generation-webui-colab
+
 
 https://copilot.microsoft.com/
 https://github.com/datawhalechina/agent-tutorial/tree/main
