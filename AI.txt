@@ -1,5 +1,8 @@
 https://github.com/mcks2000/llm_notebooks/blob/main/notebooks/Code_Llama_2_7B.ipynb
 https://github.com/camenduru/text-generation-webui-colab
+https://www.gradio.app/docs/chatinterface
+https://gist.github.com/abhishekkrthakur/a3d712c2709dcfbfa6a803fcfbcb5737
+https://github.com/liltom-eth/llama2-webui
 
 
 https://copilot.microsoft.com/
@@ -201,5 +204,19 @@ code eval: https://github.com/abacaj/code-eval
 https://github.com/chunhuizhang/bilibili_vlogs
 
 
++++ Useful Resources +++
+Colab Notebook for this video: https://colab.research.google.com/dri...
+
++++ Hugging Face +++
+Get your Llama-2 for the project: https://huggingface.co/meta-llama/Lla...
+A blog post for running Llama 2 (Llama 2 is here) by Hugging Face: https://huggingface.co/blog/llama2
+
++++ Other resources +++
+Build applications with Hugging Face on DeepLearning.ai: https://learn.deeplearning.ai/hugging...
+Llama 2 with Gradio by Abhishek Thakur:   
+
+ • The FASTEST way to build CHAT UI for ...  
+Source for format_message: https://gist.github.com/abhishekkrtha...
+Gradio Chat Interface Docs: https://www.gradio.app/docs/chatinter...
 
 
