@@ -3,6 +3,17 @@ https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese/tree/main
 https://github.com/YangRui525/UMLS-Augmented-LLM
 https://github.com/Anonymous-Autho/KG_LLM_ECIR2024
 
+Web frameworks and technologies
+https://survey.stackoverflow.co/2022/#most-popular-technologies-webframe
+
+https://github.com/Significant-Gravitas/AutoGPT
+https://github.com/melih-unsal/DemoGPT
+https://github.com/PromtEngineer/localGPT
+https://github.com/mlc-ai/mlc-llm
+
+https://www.vulkan.org/
+https://github.com/KhronosGroup/MoltenVK/
+
 
 https://github.com/mcks2000/llm_notebooks/blob/main/notebooks/Code_Llama_2_7B.ipynb
 https://github.com/camenduru/text-generation-webui-colab
