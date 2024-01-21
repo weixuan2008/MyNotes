@@ -1,4 +1,6 @@
 https://github.com/nicknochnack/Llama2RAG/tree/main
+https://github.com/mmdatong/llama2-tutorials/tree/master
+
 
 https://www.jetbrains.com/zh-cn/lp/devecosystem-2023/
 https://github.com/singhsidhukuldeep/Google-Colab-Shell?tab=readme-ov-file
