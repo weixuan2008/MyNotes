@@ -1,3 +1,5 @@
+https://github.com/nicknochnack/Llama2RAG/tree/main
+
 https://www.jetbrains.com/zh-cn/lp/devecosystem-2023/
 https://github.com/singhsidhukuldeep/Google-Colab-Shell?tab=readme-ov-file
 https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese/tree/main
