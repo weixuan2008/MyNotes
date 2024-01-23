@@ -1,4 +1,8 @@
 https://drive.google.com/drive/home
+https://github.com/hiyouga/LLaMA-Factory
+https://github.com/pengxiao-song/LaWGPT
+https://github.com/microsoft/DeepSpeed
+
 
 
 https://github.com/nicknochnack/Llama2RAG/tree/main
