@@ -3,7 +3,7 @@ https://github.com/mmdatong/llama2-tutorials/tree/master
 https://github.com/langchain-ai/langchain
 https://github.com/langchain-ai/langchain/blob/0efa59cbb8633357129083594ff6222fbc27726a/docs/docs/integrations/llms/ctranslate2.ipynb
 https://github.com/ikaijua/Awesome-AITools
-
+https://github.com/PradipNichite/Youtube-Tutorials
 
 https://drive.google.com/drive/home
 https://github.com/hiyouga/LLaMA-Factory
