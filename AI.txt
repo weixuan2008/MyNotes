@@ -1,5 +1,5 @@
 https://github.com/openai/openai-python
-
+https://open.bigmodel.cn/usercenter/apikeys
 
 https://github.com/OpenNMT/CTranslate2
 https://github.com/mmdatong/llama2-tutorials/tree/master
