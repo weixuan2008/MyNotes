@@ -2,7 +2,7 @@ https://www.langchain.com
 https://github.com/openai/openai-python
 https://open.bigmodel.cn/usercenter/apikeys
 https://github.com/blackinkkkxi/RAG_langchain/tree/main
-
+https://github.com/binary-husky/gpt_academic
 
 https://github.com/OpenNMT/CTranslate2
 https://github.com/mmdatong/llama2-tutorials/tree/master
