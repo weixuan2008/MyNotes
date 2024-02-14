@@ -4,6 +4,9 @@ https://github.com/wwwlike/vlife
 https://github.com/alibaba/lowcode-engine
 https://github.com/jeecgboot/jeecg-boot
 
+Mendix论坛
+https://mendix.bbscloud.com/
+
 
 
 
