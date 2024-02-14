@@ -10,7 +10,8 @@ https://mendix.bbscloud.com/
 Mendix官方学习视频
 https://academy.mendix.com/link/paths
 
-
+Mendix认证
+https://academy.mendix.com/link/certifications
 
 
 
