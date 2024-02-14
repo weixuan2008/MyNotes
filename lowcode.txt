@@ -7,7 +7,8 @@ https://github.com/jeecgboot/jeecg-boot
 Mendix论坛
 https://mendix.bbscloud.com/
 
-
+Mendix官方学习视频
+https://academy.mendix.com/link/paths
 
 
 
