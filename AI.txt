@@ -1,3 +1,6 @@
+网易有道RAG
+https://blog.csdn.net/lianghao118/article/details/136087436
+
 https://www.langchain.com
 https://github.com/openai/openai-python
 https://open.bigmodel.cn/usercenter/apikeys
