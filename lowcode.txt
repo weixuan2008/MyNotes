@@ -13,6 +13,9 @@ https://academy.mendix.com/link/paths
 Mendix认证
 https://academy.mendix.com/link/certifications
 
+Mendix 文档
+https://docs.mendix.com/refguide/
+
 开源带代码平台
 https://github.com/alibaba/lowcode-engine
 https://github.com/appsmithorg/appsmith
