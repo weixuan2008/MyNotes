@@ -1,3 +1,9 @@
+thoughtworks技术雷达
+https://www.thoughtworks.cn/radar
+
+gartner 低代码发展趋势
+https://www.gartner.com/reviews/market/enterprise-low-code-application-platform/compare/product/appian-low-code-platform-vs-outsystems-platform
+
 网易有道RAG
 https://blog.csdn.net/lianghao118/article/details/136087436
 
