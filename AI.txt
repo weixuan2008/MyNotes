@@ -1,3 +1,5 @@
+https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web
+
 thoughtworks技术雷达
 https://www.thoughtworks.cn/radar
 
