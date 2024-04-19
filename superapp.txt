@@ -3,3 +3,5 @@
 https://github.com/easemob/webim-uniapp-demo
 
 https://learn.microsoft.com/zh-cn/power-bi/create-reports/sample-employee-hiring-history
+https://community.fabric.microsoft.com/t5/Themes-Gallery/bd-p/ThemesGallery
+https://doc.ivx.cn/?page=18a202f6088
