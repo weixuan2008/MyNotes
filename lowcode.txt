@@ -32,4 +32,10 @@ https://www.mendix.com/evaluation-guide/enterprise-capabilities/openness-api-sdk
 
 创建rest服务
 https://blog.csdn.net/qq_38352351/article/details/110181249?spm=1001.2014.3001.5502
+https://blog.csdn.net/qq_38352351/article/details/110160054
+
+高德免费天气查询
+https://lbs.amap.com/api/webservice/guide/api/weatherinfo
+https://console.amap.com/dev/user/permission?from=person-alipay
+
 
