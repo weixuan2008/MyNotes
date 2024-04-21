@@ -38,4 +38,9 @@ https://blog.csdn.net/qq_38352351/article/details/110160054
 https://lbs.amap.com/api/webservice/guide/api/weatherinfo
 https://console.amap.com/dev/user/permission?from=person-alipay
 
-
+Rest api 例子
+https://blog.csdn.net/Mendix/article/details/114626418
+https://cloud.tencent.com/developer/news/328922
+https://blog.csdn.net/weixin_46481307/article/details/121703640
+https://blog.csdn.net/qq_38352351/article/details/110219822
+https://article.juejin.cn/post/7135047213771653151
