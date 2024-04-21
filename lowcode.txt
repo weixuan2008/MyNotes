@@ -27,3 +27,9 @@ https://github.com/alibaba/lowcode-engine
 https://github.com/appsmithorg/appsmith
 https://github.com/taowen/awesome-lowcode
 
+低代码如何避免平台锁定
+https://www.mendix.com/evaluation-guide/enterprise-capabilities/openness-api-sdk/
+
+创建rest服务
+https://blog.csdn.net/qq_38352351/article/details/110181249?spm=1001.2014.3001.5502
+
