@@ -1,8 +1,18 @@
 salesGPT
 https://github.com/filip-michalsky/SalesGPT
+https://python.langchain.com.cn/docs/use_cases/agents/sales_agent_with_context
 
+https://github.com/langchain-ai/langchain/blob/master/cookbook/sales_agent_with_context.ipynb
 
-
+https://blog.csdn.net/engchina/article/details/135987807
+https://www.zhihu.com/tardis/bd/art/685797918?source_id=1001
+https://blog.csdn.net/u013607702/article/details/136115486
+https://zhuanlan.zhihu.com/p/698107332
+https://weibo.com/6281152490/NogreetHM
+✅智能推荐潜在客户！
+✅智能撰写销售话术！
+✅智能总结电销内容！
+✅智能生产视频素材！
 
 
 https://mp.weixin.qg.com/s/MI0aFMQ3ze9LP2pWsCbOBA
