@@ -1,3 +1,7 @@
+https://cloud.baidu.com/doc/WENXINWORKSHOP/s/wlmsub7ye
+https://github.com/cssmagic/Awesome-AI
+
+
 salesGPT
 https://github.com/filip-michalsky/SalesGPT
 https://python.langchain.com.cn/docs/use_cases/agents/sales_agent_with_context
