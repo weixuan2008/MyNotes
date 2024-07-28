@@ -10,6 +10,9 @@ https://github.com/fudan-generative-vision/hallo
 https://github.com/KwaiVGI/LivePortrait
 https://github.com/BadToBest/EchoMimic
 
+微调示例：
+https://github.com/THUDM/ChatGLM3/tree/main/finetune_demo
+
 ffmpeg
 https://ffmpeg.org/download.html
 https://github.com/BtbN/FFmpeg-Builds/releases
