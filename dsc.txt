@@ -13,6 +13,9 @@ https://github.com/BadToBest/EchoMimic
 微调示例：
 https://github.com/THUDM/ChatGLM3/tree/main/finetune_demo
 
+LLMOPS
+https://www.bilibili.com/video/BV1ix4y127wQ/?spm_id_from=333.788&vd_source=f8c1932772f7486a3d4d892f8fac2df5
+
 ffmpeg
 https://ffmpeg.org/download.html
 https://github.com/BtbN/FFmpeg-Builds/releases
