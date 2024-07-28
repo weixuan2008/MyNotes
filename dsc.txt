@@ -12,7 +12,7 @@ https://github.com/BadToBest/EchoMimic
 
 ffmpeg
 https://ffmpeg.org/download.html
-
+https://github.com/BtbN/FFmpeg-Builds/releases
 
 
 
