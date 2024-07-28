@@ -8,7 +8,7 @@ https://www.youtube.com/@yhqqxq
 数字人技术
 https://github.com/fudan-generative-vision/hallo
 https://github.com/KwaiVGI/LivePortrait
-
+https://github.com/BadToBest/EchoMimic
 
 ffmpeg
 https://ffmpeg.org/download.html
