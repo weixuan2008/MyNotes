@@ -10,6 +10,8 @@ https://github.com/fudan-generative-vision/hallo
 https://github.com/KwaiVGI/LivePortrait
 
 
+ffmpeg
+https://ffmpeg.org/download.html
 
 
 ►did
