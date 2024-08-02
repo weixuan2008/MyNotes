@@ -13,6 +13,8 @@ https://github.com/BadToBest/EchoMimic
 
 Flowise - 轻松构建 LLM 应用程序
 https://github.com/FlowiseAI/Flowise
+https://blog.csdn.net/qq_33039859/article/details/140833325
+
 
 https://lmstudio.ai/
 
