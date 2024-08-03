@@ -27,7 +27,7 @@ https://github.com/X-jun-0130/LLM-Pretrain-FineTune
 https://github.com/shibing624/MedicalGPT
 https://github.com/meowcao/InsuranceModel
 https://github.com/mlabonne/llm-datasets
-
+https://github.com/Kent0n-Li/ChatDoctor/tree/main
 
 https://github.com/LearnPrompt/LearnPrompt
 https://lmstudio.ai/
