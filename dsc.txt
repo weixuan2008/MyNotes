@@ -28,9 +28,15 @@ https://github.com/shibing624/MedicalGPT
 https://github.com/meowcao/InsuranceModel
 https://github.com/mlabonne/llm-datasets
 https://github.com/Kent0n-Li/ChatDoctor/tree/main
+https://github.com/ruslanmv/ai-medical-chatbot
+
+
 
 https://github.com/LearnPrompt/LearnPrompt
 https://lmstudio.ai/
+
+内网穿透
+https://github.com/fatedier/frp
 
 
 微调示例：
