@@ -23,7 +23,13 @@ https://papayaclassroom.notion.site/Google-Drive-c9b8fe2819a54e6d99b6a5cdc55594c
 微调数据
 https://www.kaggle.com/datasets
 https://openai.xiniushu.com/docs/guides/fine-tuning
+https://github.com/X-jun-0130/LLM-Pretrain-FineTune
+https://github.com/shibing624/MedicalGPT
+https://github.com/meowcao/InsuranceModel
 
+
+
+https://github.com/LearnPrompt/LearnPrompt
 https://lmstudio.ai/
 
 
