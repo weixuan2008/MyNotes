@@ -5,10 +5,6 @@ https://platform.openai.com/tokenizer
 https://github.com/tatsu-lab/stanford_alpaca
 
 
-https://github.com/win4r/AISuperDomain
-https://blog.stoeng.site/20240506.html
-
-
 牛哥能处
 https://niugee.com/
 https://www.youtube.com/@yhqqxq
@@ -56,6 +52,11 @@ https://github.com/fatedier/frp
 
 微调示例：
 https://github.com/THUDM/ChatGLM3/tree/main/finetune_demo
+
+llama RAG 应用
+https://github.com/run-llama/llama-agents
+https://github.com/win4r/AISuperDomain
+https://blog.stoeng.site/20240506.html
 
 LLMOPS
 https://www.bilibili.com/video/BV1ix4y127wQ/?spm_id_from=333.788&vd_source=f8c1932772f7486a3d4d892f8fac2df5
