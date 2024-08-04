@@ -35,6 +35,8 @@ https://huggingface.co/spaces/weixuan2008/autotrain-advanced?logs=container
 https://colab.research.google.com/github/huggingface/autotrain-advanced/blob/main/colabs/AutoTrain_ngrok.ipynb
 https://blog.stoeng.site/20240602.html
 
+llama factory网址：https://github.com/hiyouga/LLaMA-Factory
+https://colab.research.google.com/drive/1eRTPn37ltBbYsISy9Aw2NuI2Aq5CQrD9?usp=sharing
 
 https://github.com/LearnPrompt/LearnPrompt
 https://lmstudio.ai/
