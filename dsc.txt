@@ -30,12 +30,17 @@ https://github.com/mlabonne/llm-datasets
 https://github.com/Kent0n-Li/ChatDoctor/tree/main
 https://github.com/ruslanmv/ai-medical-chatbot
 
+hugginface创建微调
+https://huggingface.co/spaces/weixuan2008/autotrain-advanced?logs=container
+https://colab.research.google.com/github/huggingface/autotrain-advanced/blob/main/colabs/AutoTrain_ngrok.ipynb
+https://blog.stoeng.site/20240602.html
 
 
 https://github.com/LearnPrompt/LearnPrompt
 https://lmstudio.ai/
 
 内网穿透
+https://dashboard.ngrok.com/get-started/your-authtoken
 https://github.com/fatedier/frp
 
 
