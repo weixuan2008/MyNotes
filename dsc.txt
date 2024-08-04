@@ -1,6 +1,14 @@
 openai的分词器可视化页面直观体验
 https://platform.openai.com/tokenizer
 
+斯坦福 alpca数据集
+https://github.com/tatsu-lab/stanford_alpaca
+
+
+https://github.com/win4r/AISuperDomain
+https://blog.stoeng.site/20240506.html
+
+
 牛哥能处
 https://niugee.com/
 https://www.youtube.com/@yhqqxq
