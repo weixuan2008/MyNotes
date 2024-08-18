@@ -1,3 +1,6 @@
+vector database:
+https://docs.pinecone.io/home
+
 openai的分词器可视化页面直观体验
 https://platform.openai.com/tokenizer
 
