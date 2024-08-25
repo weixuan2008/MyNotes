@@ -1,0 +1,4 @@
+腾讯数字人
+https://xiaowei.cloud.tencent.com/ivh/#/sdk_insert_api?vkey=b683a563e22040318c098ec206b8b435
+https://github.com/TencentCloud/virtualman-render-demo
+https://cloud.tencent.com/document/product/1240/105569
