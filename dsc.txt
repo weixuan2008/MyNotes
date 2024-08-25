@@ -1,6 +1,9 @@
 vector database:
 https://docs.pinecone.io/home
 
+toc
+https://github.com/princeton-nlp/tree-of-thought-llm
+
 openai的分词器可视化页面直观体验
 https://platform.openai.com/tokenizer
 
