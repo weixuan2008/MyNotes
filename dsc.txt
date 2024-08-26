@@ -1,3 +1,4 @@
+https://github.com/NanGePlus/RagLangChainTest/blob/main/main.py
 https://github.com/NanGePlus/RagLangChainTest
 https://zhuanlan.zhihu.com/p/699464387
 https://www.bilibili.com/video/BV18nYxecEMC/?spm_id_from=333.337.search-card.all.click&vd_source=f8c1932772f7486a3d4d892f8fac2df5
