@@ -1,5 +1,7 @@
 https://github.com/flanker/chromadb-admin
 https://cookbook.chromadb.dev/running/running-chroma/#local-server
+https://docs.vultr.com/implementing-rag-with-chroma-and-llama-2-generative-ai-series
+https://docs.vultr.com/implementing-rag-with-chroma-and-llama-2-generative-ai-series
 
 
 https://github.com/NanGePlus/RagLangChainTest/tree/main
