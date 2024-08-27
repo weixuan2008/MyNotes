@@ -1,4 +1,6 @@
 https://github.com/flanker/chromadb-admin
+https://cookbook.chromadb.dev/running/running-chroma/#local-server
+
 
 https://github.com/NanGePlus/RagLangChainTest/tree/main
 https://github.com/asaboowala/Email-Auto-Reply-RAG-App/blob/main/autoreply_email.py
