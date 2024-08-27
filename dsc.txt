@@ -1,3 +1,5 @@
+https://github.com/flanker/chromadb-admin
+
 https://github.com/NanGePlus/RagLangChainTest/tree/main
 https://github.com/asaboowala/Email-Auto-Reply-RAG-App/blob/main/autoreply_email.py
 https://github.com/NanGePlus/RagLangChainTest
