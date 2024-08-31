@@ -10,6 +10,23 @@ https://github.com/blackinkkkxi/RAG_langchain
 
 https://github.com/bingqiang2021/posterai
 
+创建一个拥有上下文记忆的RAG 链和agent应用
+https://capricious-sesame-e56.notion.site/RAG-agent-LangChain-5bee3a6c760b4c5c818f76f12c2976b4
+https://capricious-sesame-e56.notion.site/Build-a-Customer-Support-Bot-eac197a68343407f9ba01fe318776492
+https://langchain-ai.github.io/langgraph/tutorials/customer-support/customer-support/
+https://github.com/echonoshy/cgft-llm
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
