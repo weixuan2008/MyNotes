@@ -1,0 +1,13 @@
+1. dockere安装milvus
+docker pull milvusdb/milvus
+docker scout quickview milvusdb/milvus
+  
+docker run -d --name milvus -p 19530:19530 -p 19121:19121 milvusdb/milvus
+
+参考: https://blog.csdn.net/m290345792/article/details/138874495 
+
+2. mivus 客户端
+https://github.com/zilliztech/attu
+
+docker run -d -p 13000:3000 -e MILVUS_URL=127.0.0.1:19530 zilliz/attu
+http://127.0.0.1:13000
