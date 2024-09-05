@@ -1,4 +1,6 @@
 https://doc.tryfastgpt.ai/docs/development/docker/
+https://github.com/BinNong/meet-libai?tab=readme-ov-file
+
 
 https://python.langchain.ac.cn/v0.2/docs/integrations/retrievers/milvus_hybrid_search/
 https://www.milvus-io.com/index
