@@ -1,3 +1,9 @@
+https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/batch-synthesis-avatar-properties
+https://github.com/Azure/gen-cv/tree/main
+https://github.com/hacktronaut/azure-avatar-demo
+https://raokarthik83.medium.com/azure-avatar-tts-update-migrating-from-azure-turn-to-coturn-14b6ac86d60c
+https://raokarthik83.medium.com/building-a-text-to-speech-avatar-app-with-reactjs-and-azure-tts-avatar-ai-c9d2da0e9f75
+
 https://doc.tryfastgpt.ai/docs/development/docker/
 https://github.com/BinNong/meet-libai?tab=readme-ov-file
 
