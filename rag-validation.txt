@@ -1,3 +1,5 @@
+https://github.com/haobinlaosi/LLM_Course
+
 https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/batch-synthesis-avatar-properties
 https://github.com/Azure/gen-cv/tree/main
 https://github.com/hacktronaut/azure-avatar-demo
