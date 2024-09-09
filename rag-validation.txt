@@ -1,4 +1,6 @@
 https://github.com/haobinlaosi/LLM_Course
+https://github.com/chenzomi12/AISystem/
+https://github.com/fate-ubw/RAGLAB
 
 https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/batch-synthesis-avatar-properties
 https://github.com/Azure/gen-cv/tree/main
