@@ -1,6 +1,6 @@
 https://github.com/sugarforever/chat-ollama
 https://docs.dify.ai/v/zh-hans/getting-started/install-self-hosted/local-source-code
-
+https://github.com/eylonmiz/react-agent
 
 https://github.com/haobinlaosi/LLM_Course
 https://github.com/chenzomi12/AISystem/
