@@ -1,3 +1,9 @@
+https://dify.ai/blog/dify-ai-blog-introducing-difysandbox
+https://www.53ai.com/news/OpenSourceLLM/2024071290145.html
+https://gitee.com/hailiang-wang/insuranceqa-corpus-zh
+https://github.com/shuzi/insuranceQA/tree/master/V2
+https://www.cnblogs.com/chenyablog/p/15171211.html
+
 https://github.com/sugarforever/chat-ollama
 https://docs.dify.ai/v/zh-hans/getting-started/install-self-hosted/local-source-code
 https://github.com/eylonmiz/react-agent
