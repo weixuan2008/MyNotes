@@ -1,0 +1,3 @@
+https://github.com/2noise/ChatTTS
+https://github.com/libukai/Awesome-ChatTTS
+
