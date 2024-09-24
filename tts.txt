@@ -1,6 +1,8 @@
 https://github.com/euske/pdfminer
 https://github.com/pdfminer/pdfminer.six
 https://modelscope.cn/my/overview
+https://github.com/tesseract-ocr/tesseract
+
 
 https://github.com/2noise/ChatTTS
 https://github.com/libukai/Awesome-ChatTTS
