@@ -1,7 +1,9 @@
+https://github.com/euske/pdfminer
+https://github.com/pdfminer/pdfminer.six
+https://modelscope.cn/my/overview
+
 https://github.com/2noise/ChatTTS
 https://github.com/libukai/Awesome-ChatTTS
-
-
 
 https://github.com/dev-zuo/chatgpt-node-vue3
 https://www.bilibili.com/video/BV1KCpVehEgP/?spm_id_from=333.1007.tianma.5-1-15.click&vd_source=f8c1932772f7486a3d4d892f8fac2df5
