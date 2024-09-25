@@ -1,3 +1,5 @@
+https://github.com/retkowsky/Azure-OpenAI-demos/tree/main
+
 https://github.com/euske/pdfminer
 https://github.com/pdfminer/pdfminer.six
 https://modelscope.cn/my/overview
