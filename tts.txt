@@ -1,3 +1,13 @@
+https://github.com/kimtth/awesome-azure-openai-llm
+https://github.com/lobehub/lobe-chat/tree/main
+https://github.com/Azure-Samples/azure-search-openai-demo
+*** https://github.com/Azure-Samples/rag-postgres-openai-python/tree/main
+*** https://github.com/Azure-Samples/azure-openai-rag-workshop/tree/main
+*** https://github.com/Azure-Samples/ai-rag-chat-evaluator
+https://github.com/Azure-Samples/azure-openai-chat-frontend?tab=readme-ov-file
+https://github.com/Azure-Samples/azure-sql-db-chatbot
+
+
 https://github.com/retkowsky/Azure-OpenAI-demos/tree/main
 
 https://github.com/euske/pdfminer
