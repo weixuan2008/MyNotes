@@ -8,6 +8,8 @@ https://github.com/Azure-Samples/azure-openai-chat-frontend?tab=readme-ov-file
 https://github.com/Azure-Samples/azure-sql-db-chatbot
 
 
+https://cohere.com/
+
 https://github.com/retkowsky/Azure-OpenAI-demos/tree/main
 
 https://github.com/euske/pdfminer
