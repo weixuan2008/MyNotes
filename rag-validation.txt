@@ -1,4 +1,6 @@
 https://github.com/WangRongsheng/awesome-LLM-resourses
+https://hustyichi.github.io/2024/07/08/compare/
+
 
 https://dify.ai/blog/dify-ai-blog-introducing-difysandbox
 https://www.53ai.com/news/OpenSourceLLM/2024071290145.html
