@@ -1,3 +1,6 @@
+https://maxkb.cn/pricing.html
+https://maxkb.cn/docs/system_arch/
+
 https://github.com/kimtth/awesome-azure-openai-llm
 https://github.com/lobehub/lobe-chat/tree/main
 https://github.com/Azure-Samples/azure-search-openai-demo
