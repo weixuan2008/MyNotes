@@ -1,3 +1,5 @@
+https://github.com/camel-ai/camel
+https://python.langchain.com.cn/docs/use_cases/agents/camel_role_playing
 https://maxkb.cn/pricing.html
 https://maxkb.cn/docs/system_arch/
 
