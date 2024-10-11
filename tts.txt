@@ -1,6 +1,6 @@
 https://github.com/QwenLM/Qwen2-Audio
 https://ai-bot.cn/qwen2-audio/
-
+https://huggingface.co/spaces/Qwen/Qwen2-Audio-Instruct-Demo
 
 
 https://github.com/f/awesome-chatgpt-prompts
