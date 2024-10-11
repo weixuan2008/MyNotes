@@ -1,4 +1,7 @@
-
+https://github.com/f/awesome-chatgpt-prompts
+https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+https://github.com/dair-ai/Prompt-Engineering-Guide
+https://github.com/lllyasviel/Fooocus
 https://github.com/deanxv/coze-discord-proxy
 https://github.com/camel-ai/camel
 https://python.langchain.com.cn/docs/use_cases/agents/camel_role_playing
