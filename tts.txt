@@ -1,4 +1,7 @@
 https://github.com/QwenLM/Qwen2-Audio
+https://ai-bot.cn/qwen2-audio/
+
+
 
 https://github.com/f/awesome-chatgpt-prompts
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh
