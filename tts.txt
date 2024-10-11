@@ -2,6 +2,11 @@ https://github.com/QwenLM/Qwen2-Audio
 https://ai-bot.cn/qwen2-audio/
 https://huggingface.co/spaces/Qwen/Qwen2-Audio-Instruct-Demo
 http://www.xinktech.com/products/renzhi/sentiment.html
+https://blog.csdn.net/Kaiyuan_sjtu/article/details/123244195
+https://blog.imocha.io/recruitment-analytics-tools
+https://tactiq.io/learn/analyzing-candidate-interviews-using-ai
+
+recruit candidate audio analytics rating
 
 https://github.com/f/awesome-chatgpt-prompts
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh
