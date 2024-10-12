@@ -1,4 +1,11 @@
 https://github.com/openai/whisper
+https://github.com/win4r/AISuperDomain
+https://blog.stoeng.site/20241007.html
+https://github.com/win4r/o1
+https://github.com/openai/openai-realtime-console
+
+
+
 
 https://github.com/QwenLM/Qwen2-Audio
 https://ai-bot.cn/qwen2-audio/
