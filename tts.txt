@@ -1,5 +1,8 @@
 https://github.com/navintkr/openai-rag-audio
 https://medium.com/@AIWithNaveenKrishnan/exploring-azure-openai-service-gpt-4o-realtime-preview-with-audio-and-speech-capabilities-c29fa11a5505
+https://help.openai.com/en/articles/8400625-voice-mode-faq
+https://openai.com/index/introducing-the-realtime-api/
+
 
 https://github.com/openai/whisper
 https://github.com/win4r/AISuperDomain
