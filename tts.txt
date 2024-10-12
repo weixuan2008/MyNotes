@@ -1,3 +1,5 @@
+https://github.com/openai/whisper
+
 https://github.com/QwenLM/Qwen2-Audio
 https://ai-bot.cn/qwen2-audio/
 https://huggingface.co/spaces/Qwen/Qwen2-Audio-Instruct-Demo
