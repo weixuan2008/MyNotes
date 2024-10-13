@@ -1,6 +1,11 @@
 https://kimi.moonshot.cn/chat/cs5m1ta8t5h2qlv6nr5g/075728
 https://bewildcard.com/card/Wx
 https://platform.openai.com/api-keys/`123
+
+https://chatgpt.com/
+https://platform.openai.com/playground/chat?models=gpt-4o
+https://platform.openai.com/api-keys
+
 https://github.com/brightwang/dify-tool-service
 https://github.com/navintkr/openai-rag-audio
 https://medium.com/@AIWithNaveenKrishnan/exploring-azure-openai-service-gpt-4o-realtime-preview-with-audio-and-speech-capabilities-c29fa11a5505
