@@ -1,3 +1,5 @@
+https://kimi.moonshot.cn/chat/cs5m1ta8t5h2qlv6nr5g
+
 https://github.com/brightwang/dify-tool-service
 https://github.com/navintkr/openai-rag-audio
 https://medium.com/@AIWithNaveenKrishnan/exploring-azure-openai-service-gpt-4o-realtime-preview-with-audio-and-speech-capabilities-c29fa11a5505
