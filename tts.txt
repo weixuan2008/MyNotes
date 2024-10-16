@@ -4,6 +4,9 @@
 👉 PromptoMANIA: https://promptomania.com/
 👉 ChatX: https://chatx.ai/
 
+https://github.com/TMElyralab/MuseTalk
+https://github.com/zhaoyun0071/MuseTalk-windows-GUI
+
 https://kimi.moonshot.cn/chat/cs5m1ta8t5h2qlv6nr5g/075728
 https://bewildcard.com/card/Wx
 https://platform.openai.com/api-keys/`123
