@@ -6,6 +6,8 @@
 
 5. MuseV 项目Github：https://github.com/TMElyralab/MuseV
 6. MuseTalk 项目Github：https://github.com/TMElyralab/MuseTalk
+7. https://github.com/TMElyralab/MusePose
+
 https://github.com/zhaoyun0071/MuseTalk-windows-GUI
 
 https://kimi.moonshot.cn/chat/cs5m1ta8t5h2qlv6nr5g/075728
