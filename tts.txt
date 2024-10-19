@@ -95,6 +95,9 @@ https://www.bilibili.com/video/BV1KCpVehEgP/?spm_id_from=333.1007.tianma.5-1-15.
 rag评估
 https://techdiylife.github.io/blog/blog.html?category1=c02&blogid=0053
 
+https://github.com/rexrex9/basic_neural_networks_pytorch/tree/main/chapter_llm/rag
+https://github.com/blackinkkkxi/RAG_langchain
+https://techdiylife.github.io/blog/blog.html?category1=c02&blogid=0053
 
 
 
