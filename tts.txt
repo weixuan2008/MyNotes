@@ -113,3 +113,5 @@ https://github.com/brightwang/dify-tool-service
 
 
 
+https://github.com/CyberTimon/Powerpointer-For-Local-LLMs
+https://github.com/owenliang/aippt/blob/main/aippt.py
