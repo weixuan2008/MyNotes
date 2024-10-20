@@ -108,4 +108,8 @@ https://github.com/Moonvy/OpenPromptStudio
 https://moonvy.com/apps/ops/
 
 
+https://github.com/marp-team/marp
+https://github.com/brightwang/dify-tool-service
+
+
 
