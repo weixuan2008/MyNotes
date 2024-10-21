@@ -119,8 +119,7 @@ https://github.com/owenliang/aippt/blob/main/aippt.py
 https://dash.cloudflare.com/ad7aa73cb3f8d7863c3cb800dc270847
 github上的大模型 https://github.com/marketplace/models
 
-
-
+https://developer.aliyun.com/article/1490867
 https://blog.csdn.net/public669/article/details/105707037
 
 
