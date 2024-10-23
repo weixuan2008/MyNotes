@@ -1,0 +1,8 @@
+https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/prompt-design-strategies
+https://ai.google.dev/gemini-api/docs/prompting-strategies
+https://ai.google.dev/gemini-api/docs/prompting-strategies?hl=zh-cn
+
+https://www.mycustomai.io/blog/what-are-different-prompt-strategies
+
+
+
