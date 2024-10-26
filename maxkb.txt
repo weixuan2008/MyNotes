@@ -5,4 +5,5 @@ python main.py dev local_model 本地模型服务要起来，不然就是连接�
 
 
 https://maxkb.cn/docs/dev_manual/dev_environment/
-
+https://bbs.fit2cloud.com/c/mk/11
+https://kb.fit2cloud.com/?p=d2473800-5f3c-4b10-a8da-94c6913fb710
