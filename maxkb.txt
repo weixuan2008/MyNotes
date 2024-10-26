@@ -1,0 +1,8 @@
+源码部署的坑有点多
+python main.py dev celery 这个队列服务要起来，不然一直排队中
+python main.py dev local_model 本地模型服务要起来，不然就是连接不上11636
+
+
+
+https://maxkb.cn/docs/dev_manual/dev_environment/
+
