@@ -1,3 +1,8 @@
+语音分析
+https://github.com/collabora/WhisperLive?tab=readme-ov-file
+https://huggingface.co/blog/zh/whisper-speculative-decoding
+
+
 https://cloudconvert.com/m4a-to-mp3
 
 👉 PromptHero: https://prompthero.com/
