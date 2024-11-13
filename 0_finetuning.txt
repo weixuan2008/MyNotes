@@ -3,7 +3,13 @@ https://www.bilibili.com/video/BV1Lz421z79j/?spm_id_from=333.337.search-card.all
 
 https://www.bilibili.com/video/BV1vy411z7rX?spm_id_from=333.788.player.switch&vd_source=f8c1932772f7486a3d4d892f8fac2df5
 
+gbm算法
+https://github.com/Devinterview-io/light-gbm-interview-questions
+https://tianchi.aliyun.com/mas-notebook/preview/389069/456034/-1?lang=
 
+gbm示例
+https://blog.csdn.net/weixin_46803857/article/details/123250386
+https://blog.csdn.net/weixin_40598274/article/details/140135775
 
 
 https://github.com/LucasInsight/AI-star-chart
