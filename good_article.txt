@@ -9,3 +9,6 @@ https://blog.streamlit.io/ai-interviewer-customized-interview-preparation-with-g
 
 
 https://github.com/JasonJarvan/interview-helper
+https://github.com/echonoshy/cgft-llm
+
+
