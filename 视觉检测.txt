@@ -6,6 +6,10 @@ https://www.youtube.com/watch?v=84Lwv5PpWJA
 https://github.com/aladdinpersson/Machine-Learning-Collection
 
 
+azure-sample
+https://github.com/Azure-Samples/aisearch-openai-rag-audio
+
+
 
 斯坦福2024计算机视觉讲师和主教名单
 https://cs231n.stanford.edu/
