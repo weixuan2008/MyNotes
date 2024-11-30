@@ -3,3 +3,10 @@ https://www.bilibili.com/video/BV1DY4y1Z7yW/?vd_source=f8c1932772f7486a3d4d892f8
 
 Detecting Facial Keypoints with Deep Learning | a very simple top 5 kaggle solution
 https://www.youtube.com/watch?v=84Lwv5PpWJA
+https://github.com/aladdinpersson/Machine-Learning-Collection
+
+
+
+斯坦福2024计算机视觉讲师和主教名单
+https://cs231n.stanford.edu/
+https://web.stanford.edu/class/cs224n/
