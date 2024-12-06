@@ -7,3 +7,59 @@ python main.py dev local_model 本地模型服务要起来，不然就是连接�
 https://maxkb.cn/docs/dev_manual/dev_environment/
 https://bbs.fit2cloud.com/c/mk/11
 https://kb.fit2cloud.com/?p=d2473800-5f3c-4b10-a8da-94c6913fb710
+
+
+https://juejin.cn/post/7080545520493690910
+https://zhuanlan.zhihu.com/p/587706615
+https://blog.csdn.net/qg_34766156/article/details/141125110
+https://www.bookstack.cn/read/maxkb-1.3-zh/59000203777dd91d.md
+https://www.bookstack.cn/read/maxkb-1.3-zh/d8f581ed0053365f.md
+https://bbs.fit2cloud.com/t/topic/9338
+https://bpmn.io/
+
+
+
+--------------------------------------------------------
+0.1 准备配置文件
+# 将config_example.yml配置文件 目录拷贝至 /opt/maxkb/conf目录下 如果是Windows D:\\opt\\maxkb\\conf
+cp config_example.yml /opt/maxkb/conf
+
+0.2 - 配置 /opt/maxkb/conf/config_example.yml
+# 数据库配置 
+DB_NAME: maxkb
+DB_HOST: localhost
+DB_PORT: 5432
+DB_USER: root
+DB_PASSWORD: xxx
+DB_ENGINE: django.db.backends.postgresql_psycopg2
+# 模型相关配置
+# 模型路径 如果EMBEDDING_MODEL_NAME是绝对路径则无效,反之则会从https://huggingface.co/下载模型到当前目录
+EMBEDDING_MODEL_PATH: /opt/maxkb/model/
+# 模型名称 如果模型名称是绝对路径 则会加载目录下的模型,如果是模型名称,则会在https://huggingface.co/下载模型 模型的下载位置为EMBEDDING_MODEL_PATH
+EMBEDDING_MODEL_NAME: /opt/maxkb/model/shibing624_text2vec-base-chinese
+
+
+1.创建venv
+#win
+python -m venv venv
+#linux/mac
+python3 -m venv venv
+
+2.激活venv
+#win  
+.\venv\Scripts\activate
+#linux/mac
+source venv/bin/activate
+
+3.安装后端需要的依赖
+poetry install
+
+4.启动项目
+python main.py start
+
+5.使用
+用户名：admin
+默认密码：MaxKB@123..
+
+
+
