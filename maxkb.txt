@@ -38,6 +38,7 @@ EMBEDDING_MODEL_PATH: /opt/maxkb/model/
 # 模型名称 如果模型名称是绝对路径 则会加载目录下的模型,如果是模型名称,则会在https://huggingface.co/下载模型 模型的下载位置为EMBEDDING_MODEL_PATH
 EMBEDDING_MODEL_NAME: /opt/maxkb/model/shibing624_text2vec-base-chinese
 
+pip install poetry
 
 1.创建venv
 #win
@@ -61,5 +62,19 @@ python main.py start
 用户名：admin
 默认密码：MaxKB@123..
 
+--------------------------------------------------------------
+1. No module named “pwd“
+创建pwd.py文件，内容如下, 将pwd.py 放入Python Lib中
+from os import * 
+from pwd import * 
 
+def get_username():
+    return getpwuid(getuid())[0]
+
+2. ModuleNotFoundError: No module named 'resource'
+pip install python-resources 
+pip install resource
+pip install psutil
+
+3. 
 
