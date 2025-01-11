@@ -13,3 +13,4 @@ https://www.bilibili.com/video/BV1kmBgYNEbt/?spm_id_from=333.337.search-card.all
 https://github.com/sugarforever/pydantic-tutorials/blob/main/pydantic_get_started.ipynb
 https://github.com/daveebbelaar/pydantic-ai-tutorial
 https://github.com/sugarforever/pydantic-tutorials/tree/main
+https://www.youtube.com/watch?v=eNEYy0BDfsM&t=159s
