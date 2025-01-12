@@ -15,6 +15,8 @@ https://web.descript.com/?sign_up=true
 - https://github.com/sugarforever/pydantic-tutorials/tree/main
 - https://www.youtube.com/watch?v=eNEYy0BDfsM&t=159s
 
+# phidata
+- https://github.com/phidatahq/phidata
 
 # Avatar
 - https://app.heygen.com/home
