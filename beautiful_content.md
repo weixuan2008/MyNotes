@@ -17,6 +17,7 @@ https://web.descript.com/?sign_up=true
 
 # phidata
 - https://github.com/phidatahq/phidata
+- https://www.phidata.app/
 
 # Avatar
 - https://app.heygen.com/home
