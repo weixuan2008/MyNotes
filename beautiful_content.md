@@ -21,3 +21,6 @@ https://web.descript.com/?sign_up=true
 # Avatar
 - https://app.heygen.com/home
 
+# video-analyzer
+- https://github.com/byjlw/video-analyzer
+- https://github.com/Azure/video-analyzer
