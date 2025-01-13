@@ -25,3 +25,10 @@ https://web.descript.com/?sign_up=true
 # video-analyzer
 - https://github.com/byjlw/video-analyzer
 - https://github.com/Azure/video-analyzer
+
+# Autogen
+https://github.com/microsoft/autogen
+https://github.com/NanGePlus/AutoGenV04Test
+
+
+
