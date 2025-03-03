@@ -3,7 +3,7 @@
 - https://github.com/allenai/olmocr
 - https://github.com/allenai/python-package-template
 
-
+- https://github.com/adrianhajdin/project_video_chat.git
 
 
 
