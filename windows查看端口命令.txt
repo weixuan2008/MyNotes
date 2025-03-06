@@ -1,0 +1,6 @@
+
+
+netstat -ano
+netstat -aon|findstr "9348"
+tasklist|findstr "9348"
+
