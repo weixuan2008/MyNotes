@@ -5,11 +5,9 @@
 
 在命令行中运行以下命令：
 
-bash
-Copy Code
 mkdir ssl
 cd ssl
-openssl req -newkey rsa:2048 -nodes -keyout key.pem -x509 -days 365 -out cert.pem
+**openssl req -newkey rsa:2048 -nodes -keyout key.pem -x509 -days 365 -out cert.pem**
 按照提示输入必要的信息，例如国家、省份、城市、组织等。
 
 2. 安装必要的依赖
@@ -18,10 +16,8 @@ openssl req -newkey rsa:2048 -nodes -keyout key.pem -x509 -days 365 -out cert.pe
 3. 配置Vite以使用HTTPS
 在你的项目根目录下找到或创建vite.config.js文件，并添加以下配置：
 
-javascript
-Copy Code
 import { defineConfig } from 'vite';
-import path from 'path';
+**import path from 'path';
 
 export default defineConfig({
   server: {
@@ -30,12 +26,10 @@ export default defineConfig({
       cert: path.resolve(__dirname, './ssl/cert.pem')
     }
   }
-});
+});**
 4. 测试配置
 启动你的Vite开发服务器：
 
-bash
-Copy Code
 npm run dev
 现在，你的Vite开发服务器应该已经配置为使用HTTPS和自签名证书了。你可以在浏览器中访问https://localhost:<port>（其中<port>是Vite服务器使用的端口，通常是3000或5000）来查看是否成功。
 
