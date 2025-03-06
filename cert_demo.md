@@ -5,9 +5,9 @@
 
 在命令行中运行以下命令：
 
-mkdir ssl
-cd ssl
-**openssl req -newkey rsa:2048 -nodes -keyout key.pem -x509 -days 365 -out cert.pem**
+ - mkdir ssl
+- cd ssl
+- openssl req -newkey rsa:2048 -nodes -keyout key.pem -x509 -days 365 -out cert.pem
 按照提示输入必要的信息，例如国家、省份、城市、组织等。
 
 2. 安装必要的依赖
