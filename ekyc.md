@@ -5,5 +5,11 @@ https://azure.microsoft.com/en-us/pricing/details/cognitive-services/face-api/
 
 https://medium.com/@AIWithNaveenKrishnan/exploring-azure-ai-face-service-a-comprehensive-guide-for-beginners-5a5cbbc355b4
 
+活体检测知乎文章
+https://zhuanlan.zhihu.com/p/59614129
+
+
+https://github.com/leokwu/livenessnet/blob/master/gather_examples.py
+https://github.com/freelifedev/ANPR/blob/master/gather_examples.py
 
 
