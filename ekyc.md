@@ -23,7 +23,7 @@
 
 # Azure AI Face client library for .NET
 - https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/face/Azure.AI.Vision.Face/samples/Sample3_DetectLivenessWithVerifyWithSession.md
-
+- https://learn.microsoft.com/en-us/rest/api/face/liveness-session-operations/get-liveness-session-result?view=rest-face-v1.2&tabs=HTTP
 
 
 - detection/res10_300x300_ssd_iter_140000.caffemodel: This is the DNN for face detection. The OpenCV team has provided this file at https://github.com/opencv/opencv_3rdparty/blob/dnn_samples_face_detector_20170830/res10_300x300_ssd_iter_140000.caffemodel. This Caffe model was trained with the SSD framework (https://github.com/weiliu89/caffe/tree/ssd/ ...
