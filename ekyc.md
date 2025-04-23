@@ -31,7 +31,9 @@
 # 前端face检测
 - https://github.com/xxrafidxx/lycasnap/tree/main
 - https://github.com/justadudewhohacks/face-api.js
-
+- https://gitee.com/TsMask/face-api-demo-vue.git
+- https://github.com/robertbunch/face-api-js-starter
+- https://github.com/robertbunch/face-api-js
 
 
 # 全栈视频
