@@ -35,6 +35,8 @@
 - https://github.com/robertbunch/face-api-js-starter
 - https://github.com/robertbunch/face-api-js
 
+- https://github.com/computervisioneng/face-recognition-javascript-webcam-faceapi
+- https://github.com/justadudewhohacks/face-api.js/tree/master/weights
 
 # 全栈视频
 - https://www.youtube.com/watch?v=b_x_Ap6icXQ
