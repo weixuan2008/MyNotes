@@ -7,7 +7,7 @@
 
 # 活体检测知乎文章
 - https://zhuanlan.zhihu.com/p/59614129
-
+- https://blog.csdn.net/zhonglongshen/article/details/112391549
 
 - https://github.com/leokwu/livenessnet/blob/master/gather_examples.py
 - https://github.com/freelifedev/ANPR/blob/master/gather_examples.py
