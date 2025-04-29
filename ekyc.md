@@ -15,7 +15,7 @@
 - https://github.com/samanyougarg/Group-Emotion-Recognition
 - https://github.com/opencv/opencv_3rdparty/blob/dnn_samples_face_detector_20170830/res10_300x300_ssd_iter_140000.caffemodel
 - https://github.com/BVLC/caffe
-
+- https://github.com/mauckc/mouth-open/tree/master
 
 - https://github.com/Azure-Samples/azure-ai-vision-sdk/tree/main
 
