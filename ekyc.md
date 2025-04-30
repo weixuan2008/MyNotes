@@ -45,5 +45,11 @@
 - https://github.com/notJust-dev/AppleReminders
 - https://github.com/notJust-dev/AppleRemindersAPI/tree/main
 
+
+# 百度飞桨口罩人脸检测与分类
+- https://www.paddlepaddle.org.cn/hub/scene/maskdetect
+- 
+
+
 # center 类型错误当处理图像对齐
 - https://blog.csdn.net/m0_46825740/article/details/120429730
