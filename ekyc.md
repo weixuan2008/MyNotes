@@ -44,3 +44,6 @@
 - https://www.youtube.com/live/N64GtqouQXk
 - https://github.com/notJust-dev/AppleReminders
 - https://github.com/notJust-dev/AppleRemindersAPI/tree/main
+
+# center 类型错误当处理图像对齐
+- https://blog.csdn.net/m0_46825740/article/details/120429730
