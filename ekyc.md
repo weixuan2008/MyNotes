@@ -68,7 +68,11 @@
 - https://github.com/hikariming/virus-mask-dataset
 - https://github.com/cabani/MaskedFace-Net
 - https://drive.google.com/drive/folders/1kZAIiv34Iav9Vt8BB101FXo4KoEClpx9
-- 
+- https://github.com/prajnasb/observations
+- https://github.com/hikariming/virus-mask-dataset
+- https://github.com/cabani/MaskedFace-Net
+- https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset
+
 
 # center 类型错误当处理图像对齐
 - https://blog.csdn.net/m0_46825740/article/details/120429730
