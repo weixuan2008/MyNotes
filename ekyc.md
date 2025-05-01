@@ -63,7 +63,11 @@
 # 数据集
 - https://github.com/vdjango/MaskFace#
 - https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset
-- 
+- https://blog.csdn.net/guyuealian/article/details/125069926
+- https://github.com/sevenHsu/FaceMask_CelebA
+- https://github.com/hikariming/virus-mask-dataset
+- https://github.com/cabani/MaskedFace-Net
+- https://drive.google.com/drive/folders/1kZAIiv34Iav9Vt8BB101FXo4KoEClpx9
 - 
 
 # center 类型错误当处理图像对齐
