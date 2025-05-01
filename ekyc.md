@@ -35,6 +35,13 @@
 - https://gitee.com/TsMask/face-api-demo-vue.git
 - https://github.com/robertbunch/face-api-js-starter
 - https://github.com/robertbunch/face-api-js
+- https://github.com/semihdurgun/create-mask-data-set/tree/main
+- https://github.com/sevenHsu/FaceMask_CelebA/tree/master
+- https://www.kaggle.com/datasets/pranavsingaraju/facemask-detection-dataset-20000-images
+- https://github.com/xictus77/Facial-mask-overlay-with-OpenCV-Dlib.git
+
+
+
 
 - https://github.com/computervisioneng/face-recognition-javascript-webcam-faceapi
 - https://github.com/justadudewhohacks/face-api.js/tree/master/weights
@@ -44,12 +51,22 @@
 - https://www.youtube.com/live/N64GtqouQXk
 - https://github.com/notJust-dev/AppleReminders
 - https://github.com/notJust-dev/AppleRemindersAPI/tree/main
-
+- https://github.com/djbielejeski/a-person-mask-generator/tree/main
+- https://github.com/xictus77/Facial-mask-overlay-with-OpenCV-Dlib/tree/master
+-
 
 # 百度飞桨口罩人脸检测与分类
 - https://www.paddlepaddle.org.cn/hub/scene/maskdetect
 - 
 
 
+# 数据集
+- https://github.com/vdjango/MaskFace#
+- https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset
+- 
+- 
+
 # center 类型错误当处理图像对齐
 - https://blog.csdn.net/m0_46825740/article/details/120429730
+- https://blog.csdn.net/zimiao552147572/article/details/106609010
+- https://blog.csdn.net/zimiao552147572/article/details/106609010
