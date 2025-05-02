@@ -85,6 +85,7 @@
 - https://github.com/carolinedunn/Face_Mask_Detection
 - https://www.kaggle.com/code/omaradelmohamed/face-mask-detection-real-time/input
 - https://www.kaggle.com/datasets/prithwirajmitra/covid-face-mask-detection-dataset
+- https://blog.csdn.net/qq_51701007/article/details/136203080
 - 
 
 
