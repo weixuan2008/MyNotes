@@ -78,3 +78,20 @@
 - https://blog.csdn.net/m0_46825740/article/details/120429730
 - https://blog.csdn.net/zimiao552147572/article/details/106609010
 - https://blog.csdn.net/zimiao552147572/article/details/106609010
+
+
+# 口罩检测
+- https://github.com/ankitgoyal0301/COVID-19-Face-Mask-Detector
+- https://github.com/carolinedunn/Face_Mask_Detection
+- https://www.kaggle.com/code/omaradelmohamed/face-mask-detection-real-time/input
+- https://www.kaggle.com/datasets/prithwirajmitra/covid-face-mask-detection-dataset
+- 
+
+
+
+
+
+
+
+
+
