@@ -53,7 +53,7 @@
 - https://github.com/notJust-dev/AppleRemindersAPI/tree/main
 - https://github.com/djbielejeski/a-person-mask-generator/tree/main
 - https://github.com/xictus77/Facial-mask-overlay-with-OpenCV-Dlib/tree/master
--
+- https://pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
 
 # 百度飞桨口罩人脸检测与分类
 - https://www.paddlepaddle.org.cn/hub/scene/maskdetect
