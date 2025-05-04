@@ -61,7 +61,15 @@
 
 
 # 数据集
-- https://github.com/vdjango/MaskFace#
+- https://ibug.doc.ic.ac.uk/resources/300-W/
+- https://dlib.net/files/data/
+- https://www.kaggle.com/datasets/toxicloser/ibug-300w-large-face-landmark-dataset
+- 
+- https://paperswithcode.com/dataset/300-vw
+- https://www.kaggle.com/datasets/xdnuos/facial-landmark-300vw
+- 
+- 
+-  https://github.com/vdjango/MaskFace#
 - https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset
 - https://blog.csdn.net/guyuealian/article/details/125069926
 - https://github.com/sevenHsu/FaceMask_CelebA
