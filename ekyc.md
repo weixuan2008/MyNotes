@@ -91,7 +91,9 @@
 - https://github.com/hikariming/virus-mask-dataset
 - https://github.com/cabani/MaskedFace-Net
 - https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset
-
+- https://www.kaggle.com/datasets/deadskull7/fer2013 (表情检测)
+- https://aca.bce.baidu.com/doc/FACE/s/ek37c1qiz
+- https://github.com/atulapra/Emotion-detection
 
 # center 类型错误当处理图像对齐
 - https://blog.csdn.net/m0_46825740/article/details/120429730
