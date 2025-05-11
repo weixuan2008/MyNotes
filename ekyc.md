@@ -52,6 +52,10 @@
 - https://github.com/xictus77/Facial-mask-overlay-with-OpenCV-Dlib.git
 
 
+# 面部表情检测
+- https://github.com/meng1994412/Emotion_Recognition#
+
+
 
 
 - https://github.com/computervisioneng/face-recognition-javascript-webcam-faceapi
