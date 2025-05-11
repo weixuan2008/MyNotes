@@ -23,11 +23,12 @@
 - https://gitee.com/ldp_dpsmax/see-face
 
 # Netron可视化工具
+- https://netron.app/
 - https://github.com/lutzroeder/netron
 - https://www.mindspore.cn/lite/docs/zh-CN/r1.3/use/visual_tool.html
 - https://www.cnblogs.com/geoffreygao/p/13993820.html
 - https://zhuanlan.zhihu.com/p/639015187
-
+- https://github.com/geekwenjie/SmartJavaAI
 
 # Azure AI Face client library for .NET
 - https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/face/Azure.AI.Vision.Face/samples/Sample3_DetectLivenessWithVerifyWithSession.md
