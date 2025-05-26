@@ -7,3 +7,6 @@
 - https://github.com/AgoraIO/agora-rtc-web/tree/main/projects/quick-demo-vue
 
 
+- https://webdemo.agora.io/example/framework/vue/index.html
+- https://github.com/AgoraIO/API-Examples
+- https://github.com/AgoraIO/API-Examples-Web/tree/main
