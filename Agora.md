@@ -16,3 +16,7 @@
 
 
 - https://github.com/Xiaomostream/California-House-Prices
+- https://github.com/anujb-msft/communication-services-realtime-voice-agent/tree/main
+- https://github.com/Azure-Samples/communication-services-javascript-quickstarts/tree/main
+- https://github.com/hieumoscow/multi-agent-contact-center
+- 
