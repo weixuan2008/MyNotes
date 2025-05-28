@@ -19,4 +19,8 @@
 - https://github.com/anujb-msft/communication-services-realtime-voice-agent/tree/main
 - https://github.com/Azure-Samples/communication-services-javascript-quickstarts/tree/main
 - https://github.com/hieumoscow/multi-agent-contact-center
+- https://github.com/hieumoscow/multi-agent-contact-center/tree/main
+- https://github.com/Azure-Samples/communication-services-web-chat-hero
+- https://learn.microsoft.com/en-us/azure/communication-services/overview
+- https://github.com/anujb-msft/communication-services-realtime-voice-agent
 - 
