@@ -24,3 +24,12 @@
 - https://learn.microsoft.com/en-us/azure/communication-services/overview
 - https://github.com/anujb-msft/communication-services-realtime-voice-agent
 - 
+
+
+
+# voice agent with Azure Communication Services
+- Best practices for building real-time voice agents with Azure Communication Services
+- https://github.com/anujb-msft/communication-services-realtime-voice-agent
+- https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/audio-streaming-quickstart?pivots=programming-language-python
+- https://www.youtube.com/watch?v=FlXaBNdN5gs&t=18s
+
