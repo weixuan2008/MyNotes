@@ -32,4 +32,7 @@
 - https://github.com/anujb-msft/communication-services-realtime-voice-agent
 - https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/audio-streaming-quickstart?pivots=programming-language-python
 - https://www.youtube.com/watch?v=FlXaBNdN5gs&t=18s
+- https://platform.openai.com/docs/guides/voice-agents?voice-agent-architecture=speech-to-speech
+- https://github.com/TEN-framework/ten-framework
+- 
 
