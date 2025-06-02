@@ -39,4 +39,6 @@
 
 # AI超元域
 - https://www.aivi.fyi/aiagents/introduce-agents-SDK
+- https://www.aurelio.ai/learn/agents-sdk-voice
+- https://github.com/aurelio-labs/agents-sdk-course/blob/main/chapters/07-voice.ipynb
 - 
