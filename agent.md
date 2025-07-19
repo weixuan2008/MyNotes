@@ -11,7 +11,8 @@
 
 ##### how to run a LangGraph application locally.
 - https://langchain-ai.github.io/langgraph/tutorials/langgraph-platform/local-server/#prerequisites
-
+- https://langchain-ai.github.io/langgraph/tutorials/langgraph-platform/local-server/#6-test-your-application-in-langgraph-studio
+- 
 
 
 
