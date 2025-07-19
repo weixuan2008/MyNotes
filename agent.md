@@ -9,7 +9,8 @@
 ##### 官方文档:
 - https://langchain-ai.github.io/langgraph/tutorials/workflows/#routing
 
-
+##### how to run a LangGraph application locally.
+- https://langchain-ai.github.io/langgraph/tutorials/langgraph-platform/local-server/#prerequisites
 
 
 
