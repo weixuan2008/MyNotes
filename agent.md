@@ -12,7 +12,29 @@
 ##### how to run a LangGraph application locally.
 - https://langchain-ai.github.io/langgraph/tutorials/langgraph-platform/local-server/#prerequisites
 - https://langchain-ai.github.io/langgraph/tutorials/langgraph-platform/local-server/#6-test-your-application-in-langgraph-studio
-- 
+
+### voiceflow
+- https://creator.voiceflow.com/workspace/29kMrrAljo
+
+### building_effective_agents
+- https://github.com/chunhuizhang/llm_aigc/blob/main/tutorials/agents/langchain/advanced/building_effective_agents.ipynb
+- https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart
+- https://www.youware.com/project/287in7526h
+- https://blog.langchain.com/how-to-build-an-agent/
+- https://www.youware.com/project/pcpz765eil
+- https://weaviate.io/blog/what-are-agentic-workflows
+- https://www.anthropic.com/engineering/built-multi-agent-research-system
+- https://github.com/chunhuizhang/prompts_for_academic/blob/main/deepresearch/gemini_deepresearch.ipynb
+- https://github.com/chunhuizhang/prompts_for_academic/blob/main/deepresearch/multi-agent%20research%20system.ipynb
+- https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart
+
+
+### Others
+- https://creator.voiceflow.com/workspace/29kMrrAljo
+- https://chalise-arun.medium.com/ai-powered-claim-processing-agent-human-in-the-loop-with-langgraph-d9df33dbcffb
+- https://github.com/achalise/llm-experiments/tree/main/claim-processor-agent
+- https://bgiri-gcloud.medium.com/how-agent-ai-rag-engines-are-simplifying-insurance-claims-processing-e3787fcb90a3
+- https://github.com/bgirigcloud
 
 
 
