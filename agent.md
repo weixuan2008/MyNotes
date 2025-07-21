@@ -36,8 +36,8 @@
 - https://bgiri-gcloud.medium.com/how-agent-ai-rag-engines-are-simplifying-insurance-claims-processing-e3787fcb90a3
 - https://github.com/bgirigcloud
 
-
-
+- https://github.com/Clivern/Anubis/tree/main/docs/_code/intention-based-routing-in-langgraph
+- https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart
 
 
 
