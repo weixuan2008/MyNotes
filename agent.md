@@ -1,6 +1,7 @@
 ### langgraph中文
 - https://www.aidoczh.com/langgraph/concepts/#langgraph_2
 - https://github.com/techwithtim/LangGraph-Tutorial/tree/main
+- https://blog.csdn.net/2401_82469710/article/details/147397622
 
 ##### anthropic agent最佳实践原理: 
 - https://www.anthropic.com/research/building-effective-agents
