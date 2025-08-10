@@ -1,3 +1,12 @@
+### anthropic
+- https://www.anthropic.com/research/building-effective-agents
+- https://langchain-ai.github.io/langgraph/
+- https://langchain-ai.github.io/langgraph/tutorials/workflows/#routing
+- https://ywctech.net/ml-ai/langchain-langgraph-agent-part1/
+- https://hub.baai.ac.cn/view/45109
+- https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/tree/main
+
+
 ### lmarena
 https://github.com/Lianues/LMArenaBridge
 https://lmarena.ai/
