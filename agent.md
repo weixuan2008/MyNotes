@@ -1,3 +1,7 @@
+### Visualization
+- https://medium.com/@josephamyexson/langgraph-visualization-with-get-graph-ffa45366d6cb
+- https://www.baihezi.com/mirrors/langgraph/how-tos/visualization/index.html#using-mermaid-pyppeteer
+
 ### anthropic
 - https://www.anthropic.com/research/building-effective-agents
 - https://langchain-ai.github.io/langgraph/
