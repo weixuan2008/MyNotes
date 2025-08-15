@@ -1,3 +1,7 @@
+### Dify
+- https://github.com/langgenius/dify
+- https://cloud.dify.ai/apps
+
 ### Visualization
 - https://medium.com/@josephamyexson/langgraph-visualization-with-get-graph-ffa45366d6cb
 - https://www.baihezi.com/mirrors/langgraph/how-tos/visualization/index.html#using-mermaid-pyppeteer
