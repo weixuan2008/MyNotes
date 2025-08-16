@@ -1,3 +1,6 @@
+### 硅基流动
+- https://cloud.siliconflow.cn/me/models
+
 ### Dify
 - https://github.com/langgenius/dify
 - https://cloud.dify.ai/apps
