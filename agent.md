@@ -3,6 +3,8 @@
 - https://www.alphavantage.co/
 - https://www.alphavantage.co/support/#api-key
 
+### Google Search api key
+- https://serpapi.com/
 
 ### 硅基流动
 - https://cloud.siliconflow.cn/me/models
