@@ -4,8 +4,9 @@
 - https://www.alphavantage.co/support/#api-key
 
 ### Google Search api key
-- https://serpapi.com/
+- https://serpapi.com/ 
 - https://serpapi.com/dashboard
+- https://serper.dev/dashboard （用这个）
 
 ### 硅基流动
 - https://cloud.siliconflow.cn/me/models
