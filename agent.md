@@ -5,6 +5,7 @@
 
 ### Google Search api key
 - https://serpapi.com/
+- https://serpapi.com/dashboard
 
 ### 硅基流动
 - https://cloud.siliconflow.cn/me/models
