@@ -1,6 +1,10 @@
 ### 硅基流动
 - https://cloud.siliconflow.cn/me/models
 
+### Gemini Developer API
+- https://aistudio.google.com/app/apikey
+- https://aistudio.google.com/app/apikey
+
 ### Dify
 - https://github.com/langgenius/dify
 - https://cloud.dify.ai/apps
