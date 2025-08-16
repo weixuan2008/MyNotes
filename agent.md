@@ -1,3 +1,6 @@
+### stability
+- https://platform.stability.ai/
+- 
 ### 硅基流动
 - https://cloud.siliconflow.cn/me/models
 
