@@ -1,3 +1,6 @@
+###京东开源智能体
+- https://github.com/jd-opensource/joyagent-jdgenie
+
 ### stability
 - https://platform.stability.ai/
 - https://www.alphavantage.co/
