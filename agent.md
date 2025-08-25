@@ -1,5 +1,9 @@
 ###京东开源智能体
 - https://github.com/jd-opensource/joyagent-jdgenie
+- https://astralinsights.ai/comparison-of-observability-platforms-langsmith-langfuse/
+- https://hub.baai.ac.cn/view/36671
+- https://langfuse.com/cn
+- https://www.runoob.com/w3cnote/windows-finds-port-usage.html
 
 ### stability
 - https://platform.stability.ai/
