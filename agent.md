@@ -4,6 +4,9 @@
 - https://hub.baai.ac.cn/view/36671
 - https://langfuse.com/cn
 - https://www.runoob.com/w3cnote/windows-finds-port-usage.html
+netstat -ano> c:\1\dd.txt
+tasklist|findstr "10228"
+
 
 ### stability
 - https://platform.stability.ai/
