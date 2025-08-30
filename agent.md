@@ -1,6 +1,7 @@
 ### Dify 好站
 - https://github.com/BannyLon/DifyAIA
 - https://github.com/svcvit/Awesome-Dify-Workflow
+- https://docs.dify.ai/zh-hans/getting-started/install-self-hosted/docker-compose
 
 ###京东开源智能体
 - https://github.com/jd-opensource/joyagent-jdgenie
