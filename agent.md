@@ -1,3 +1,7 @@
+### Dify 好站
+- https://github.com/BannyLon/DifyAIA
+- https://github.com/svcvit/Awesome-Dify-Workflow
+
 ###京东开源智能体
 - https://github.com/jd-opensource/joyagent-jdgenie
 - https://astralinsights.ai/comparison-of-observability-platforms-langsmith-langfuse/
