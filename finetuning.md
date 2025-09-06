@@ -19,3 +19,4 @@
 
 ### 好的资源
 - https://help.aliyun.com/zh/pai/use-cases/fine-tune-a-llama-3-model-with-llama-factory
+- https://zhuanlan.zhihu.com/p/1906454826352637595
