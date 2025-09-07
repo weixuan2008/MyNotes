@@ -24,4 +24,5 @@
 
 ###本地推理
 - https://github.com/ggml-org/llama.cpp
+- https://github.com/vllm-project/vllm
 - 
