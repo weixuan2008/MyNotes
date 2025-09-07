@@ -21,8 +21,11 @@
 - https://help.aliyun.com/zh/pai/use-cases/fine-tune-a-llama-3-model-with-llama-factory
 - https://zhuanlan.zhihu.com/p/1906454826352637595
 
+### 打标工具
+- https://labelstud.io/guide/start
+- 
 
-###本地推理
+### 本地推理
 - https://github.com/ggml-org/llama.cpp
 - https://github.com/vllm-project/vllm
 - 
