@@ -2,6 +2,14 @@
 - https://github.com/BannyLon/DifyAIA
 - https://github.com/svcvit/Awesome-Dify-Workflow
 - https://docs.dify.ai/zh-hans/getting-started/install-self-hosted/docker-compose
+- https://github.com/FareedKhan-dev/Multi-Agent-AI-System?tab=readme-ov-file
+- https://github.com/langchain-ai/langgraph-fullstack-python
+- https://github.com/NanGePlus/LangGraphChatBot
+- https://github.com/lgesuellip/langgraph-whatsapp-agent
+- https://github.com/von-development/awesome-LangGraph
+- https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart
+- https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant
+- 
 
 ###京东开源智能体
 - https://github.com/jd-opensource/joyagent-jdgenie
