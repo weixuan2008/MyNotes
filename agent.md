@@ -12,6 +12,8 @@
 - https://github.com/von-development/awesome-LangGraph
 - https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart
 - https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant
+
+  ### software
 - https://github.com/yaobiao131/downkyicore
 
 ###京东开源智能体
