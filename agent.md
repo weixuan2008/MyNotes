@@ -1,4 +1,5 @@
 ### Dify 好站
+- https://github.com/wwwzhouhui/dify-for-dsl/tree/main
 - https://github.com/BannyLon/DifyAIA
 - https://github.com/svcvit/Awesome-Dify-Workflow
 - https://docs.dify.ai/zh-hans/getting-started/install-self-hosted/docker-compose
