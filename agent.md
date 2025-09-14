@@ -1,5 +1,6 @@
 ### Dify 好站
 - https://github.com/cdg1921/dify_annotation_and_analysis
+- https://github.com/BannyLon/DifyAIA
 - https://github.com/wwwzhouhui/dify-for-dsl/tree/main
 - https://github.com/BannyLon/DifyAIA
 - https://github.com/svcvit/Awesome-Dify-Workflow
