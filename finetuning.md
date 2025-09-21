@@ -7,9 +7,9 @@
 - https://github.com/hiyouga/LLaMA-Factory/issues/4614
 
 
-### llama3-8b微调例子
+### llama3-8b微调例子（经典）
 - https://github.com/echonoshy/cgft-llm/
-
+- https://github.com/echonoshy/cgft-llm
 
 
 ### 模型
@@ -28,4 +28,8 @@
 ### 本地推理
 - https://github.com/ggml-org/llama.cpp
 - https://github.com/vllm-project/vllm
+
+
+### 数据集
+- https://github.com/ConardLi/easy-dataset
 - 
