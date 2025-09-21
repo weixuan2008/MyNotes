@@ -19,5 +19,5 @@ cdc.change_tables：变更表（每张原表对应一个）
 cdc.lsn_time_mapping：LSN 与时间戳映射表
 SQL Agent 中的 cdc.<DBName>_capture 和 cdc.<DBName>_cleanup 任务
 
-
+-- 6. 与 SeaTunnel 集成
 
