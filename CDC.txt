@@ -12,7 +12,7 @@ EXEC sys.sp_cdc_enable_table
     @source_schema = N'dbo',
     @source_name   = N'agent',
     @role_name     = NULL,
-    @supports_net_changes = 1;
+    @supports_net_changes = 0;
 
 -- 5. 启用CDC后，SQL Server 会自动创建以下结构
 cdc.change_tables：变更表（每张原表对应一个）
