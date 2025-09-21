@@ -1,0 +1,23 @@
+-- 1. 查看数据库版本
+select @@VERSION
+
+-- 2. 查看数据库是否启用CDC
+select is_cdc_enabled from sys.databases where name='AAS'
+
+-- 3. 为数据库启用 CDC
+EXEC sys.sp_cdc_enable_db;
+
+-- 4. 为表启用 CDC
+EXEC sys.sp_cdc_enable_table
+    @source_schema = N'dbo',
+    @source_name   = N'agent',
+    @role_name     = NULL,
+    @supports_net_changes = 1;
+
+-- 5. 启用CDC后，SQL Server 会自动创建以下结构
+cdc.change_tables：变更表（每张原表对应一个）
+cdc.lsn_time_mapping：LSN 与时间戳映射表
+SQL Agent 中的 cdc.<DBName>_capture 和 cdc.<DBName>_cleanup 任务
+
+
+
