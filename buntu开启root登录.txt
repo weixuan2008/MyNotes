@@ -1,0 +1,22 @@
+https://zhuanlan.zhihu.com/p/355555221U
+
+buntu开启root登录
+
+
+#### 1、设置root密码
+sudo passwd root
+
+#### 2、配置root登录
+
+sudo vim /etc/pam.d/gdm-autologin
+#注释行 "auth requied pam_succeed_if.so user != root quiet success"
+sudo vim /etc/pam.d/gdm-password
+#注释行 "auth requied pam_succeed_if.so user != root quiet success"
+sudo vim /root/.profile
+#在行"mesg n || true"前添加"tty -s && " 变为 "tty -s && mesg n || true"
+sudo vim /etc/ssh/sshd_config
+#将#PermitRootLogin prohibit-password 改为 PermitRootLogin yes
+
+
+3、重启 ssh
+udo service ssh restart
