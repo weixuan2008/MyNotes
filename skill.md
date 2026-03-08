@@ -1,0 +1,3 @@
+- OpenCode 项目（开源）：https://github.com/anomalyco/opencode
+- Claude Code 文档：https://docs.anthropic.com/claude/code
+- 
