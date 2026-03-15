@@ -1,1 +1,38 @@
+1. 忘记了管理员邮箱是什么（查邮箱）
+dockerAPP 进入db-1容器 进入‘exec’  (指令进入也同理)
+
+输入： 会进入数据库
+psql -U postgres
+
+
+输入： 列举数据库所有内容
+\l
+
+输入：进入 dify 数据库
+\c dify
+
+输入： 查看其中的所有表
+ \d
+
+这个时候数据多 回车或者跟着提示输入R就行
+\d accounts
+
+
+最后 查看是否有用户数据
+select * from accounts;
+
+2. 不知道密码，但知道邮箱（重置密码，且上一步可知道邮箱）
+Docker进入docker-api-1的exec（指令同理）
+flask reset-password
+
+然后他会让你输入两次密码，之后回车就可以看到成功了
+
+
+https://blog.csdn.net/qq_49808097/article/details/148639692
+
+
+
+
+
+
 
