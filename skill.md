@@ -6,6 +6,8 @@
 - https://docs.yintai.ai/zh/developer/agent/a2a-tutorial
 - https://github.com/a2aproject/a2a-samples/tree/main/samples
 
+- https://agentskills.io/specification
+
 
 - anthropic官仓库：https://github.com/anthropics/skills
 - Skills社群网站：https://skillsmp.com/zh
