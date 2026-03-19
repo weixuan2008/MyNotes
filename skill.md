@@ -31,3 +31,26 @@
 - 24:09 Agent Skill
 - 30:44 总结
 
+
+
+- anthropic官方仓库：https://github.com/anthropics/skills​
+- Skills社群网站：https://skillsmp.com/zh​
+- 优秀开源集合：https://github.com/ComposioHQ/awesome-claude-skills​
+- 精选skills库：https://github.com/JackyST0/awesome-agent-skills​
+- 视频制作skill：https://github.com/remotion-dev/skills​
+- youtube视频剪辑skill：https://github.com/op7418/Youtube-clipper-skill​
+- 大师帮你创建skill的skill：https://github.com/GBSOSS/skill-from-masters
+​- notebookLM skill：https://github.com/PleasePrompto/notebooklm-skill​
+- markdown发布到X skill：https://github.com/wshuyi/x-article-publisher-skill
+​- AI 视频产品 Vidu  Skills：https://www.vidu.cn/​
+- agent-skills.md包含 6000 多个好用的实用技能： https://agent-skills.md/​
+- Skillstore: https://skillstore.io/zh-hans​
+- Reddit 社区推荐的技能合集：https://www.skillsdirectory.com/​
+- agentskills.me： https://agentskills.me/
+​- Vercel 官方仓库：https://github.com/vercel-labs/agent-skills
+​- 开发者 Antfu 维护的技能库：https://github.com/antfu/skills​skill
+- 收藏库：https://github.com/ZhanlinCui/Ultimate-Agent-Skills-Collection
+​- skillsbot：https://www.skillsbot.cn/​
+
+
+
